@@ -91,5 +91,3 @@ http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MINIKA_COCUK/index.m3u8?star
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MINIKA_GO/index.m3u8?start=LIVE&end=END&device=HLS
 #EXTINF:-1,NICKTOONS
 http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NICKTOONS/index.m3u8?start=LIVE&end=END&device=HLS
-#EXTINF:-1,Youtube
-https://www.youtube.com/watch?v=m66ZWdMOKbM&list=RDQMUOmCGJf8KrQ&start_radio=1
