@@ -1,3 +1,95 @@
 #EXTM3U
 #EXTINF:0 tvg-logo=""tvg-id="" group-title="Youtube",Youtube-Akasya Durağı
 https://www.youtube.com/watch?v=m66ZWdMOKbM&list=RDQMUOmCGJf8KrQ&start_radio=1
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT 1 HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_1_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",STAR TV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$STAR_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",KANAL D HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_D_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",SHOW TV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$SHOW_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",ATV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ATV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",FOX TV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$FOX_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TV 8 HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV8_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",BEYAZ TV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BEYAZ_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",KANAL 7 HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KANAL_7_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",360 TV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$360_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT HABER HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",NTV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",A HABER HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A_HABER_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",CNN TÜRK HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$CNN_TURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",HABERTÜRK HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$HABERTURK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TGRT HABER
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TGRT_HABER/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",BLOOMBERG HT HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BLOOMBERG_HT_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TVNET HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TVNET_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",ÜLKE TV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$ULKE_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",24 HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$24_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",360 HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$360_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",BENGÜTÜRK TV
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$BENGU_TURK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",A PARA HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A_PARA_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT TÜRK HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_TURK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT 2 HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT SPOR HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",A SPOR HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",FB TV
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$FB_TV/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT BELGESEL HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_BELGESEL_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",D MAX HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NTV_SPOR_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TLC HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TLC_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",A2 HD 
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$A2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TEVE2 HD 
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TV2_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TVT
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TVT/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",UÇANKUŞ TV
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$UCANKUS_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT MÜZİK HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_MUZIK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT AVAZ HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_AVAZ_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT DİYANET HD 
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_DIYANET_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",SEMERKAND TV HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$SEMERKAND_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",KON TV
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$KON_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",AkitTV
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$AKIT_TV_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",TRT ÇOCUK HD
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$TRT_COCUK_HD/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",MİNİKA ÇOCUK
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MINIKA_COCUK/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",MİNİKA GO
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$MINIKA_GO/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="TİVİBU",NICKTOONS
+http://mdn.mvp.tivibu.com.tr/MVP/TTG/NPVR/shls/LIVE$NICKTOONS/index.m3u8?start=LIVE&end=END&device=HLS
+#EXTINF:0 tvg-logo=""tvg-id="" group-title="Youtube",Youtube
+https://www.youtube.com/watch?v=m66ZWdMOKbM&list=RDQMUOmCGJf8KrQ&start_radio=1
