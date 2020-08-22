@@ -1,0 +1,10 @@
+Eurosport 1
+http://astra.powernet.com.ru:5000/channel_239.1.13.1/index.m3u8
+Eurosport 2
+http://astra.powernet.com.ru:5000/channel_239.1.13.2/index.m3u8
+Erotic
+http://astra.powernet.com.ru:5000/channel_239.1.13.4/index.m3u8
+Blue Hustler
+http://astra.powernet.com.ru:5000/channel_239.1.13.5/index.m3u8
+UltraHD Cinema
+http://astra.powernet.com.ru:5000/channel_239.1.13.77/index.m3u8
