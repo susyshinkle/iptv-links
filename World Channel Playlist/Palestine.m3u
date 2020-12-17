@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Raya 1 TV
+http://vstream3.hadara.ps:8081/RayaHD1_web/web/chunks.m3u8
+#EXTINF:-1,Raya 3 TV
+http://vstream3.hadara.ps:8081/RayaHD2_web/web/chunks.m3u8
+#EXTINF:-1,AL YAUM
+http://live.paltoday.tv:1935/paltv/live/chunklist_w1169818724.m3u8
+#EXTINF:-1,Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Musawa tv
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Palestine live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Nbc Alnajah TV
+http://htvpalsat.mada.ps:8888/najah/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Awdeh Palestine
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Al-FAJER TV 2 HD
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8

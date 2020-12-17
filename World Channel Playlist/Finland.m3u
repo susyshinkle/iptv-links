@@ -1,0 +1,225 @@
+#EXTM3U
+#EXTINF:-1 ,Yle TV1
+http://185.218.193.133:9981/stream/channelid/98693598?profile=pass
+#EXTINF:-1 ,Yle TV2
+http://185.218.193.133:9981/stream/channelid/536427653?profile=pass
+#EXTINF:-1 ,MTV3
+http://185.218.193.133:9981/stream/channelid/399968840?profile=pass
+#EXTINF:-1 ,Nelonen
+http://185.218.193.133:9981/stream/channelid/81542189?profile=pass
+#EXTINF:-1 ,Yle Teema & Fem
+http://185.218.193.133:9981/stream/channelid/125690072?profile=pass
+#EXTINF:-1 ,sub
+http://185.218.193.133:9981/stream/channelid/956865436?profile=pass
+#EXTINF:-1 ,TV5
+http://185.218.193.133:9981/stream/channelid/1277193177?profile=pass
+#EXTINF:-1 ,Liv
+http://185.218.193.133:9981/stream/channelid/21971480?profile=pass
+#EXTINF:-1 ,JIM
+http://185.218.193.133:9981/stream/channelid/71716320?profile=pass
+#EXTINF:-1 ,Kutonen
+http://185.218.193.133:9981/stream/channelid/1345074527?profile=pass
+#EXTINF:-1 ,TLC HD
+http://185.218.193.133:9981/stream/channelid/2016537409?profile=pass
+#EXTINF:-1 ,FOX
+http://185.218.193.133:9981/stream/channelid/1538397391?profile=pass
+#EXTINF:-1 ,AVA
+http://185.218.193.133:9981/stream/channelid/595904636?profile=pass
+#EXTINF:-1 ,Hero
+http://185.218.193.133:9981/stream/channelid/291447587?profile=pass
+#EXTINF:-1 ,Frii
+http://185.218.193.133:9981/stream/channelid/1990853994?profile=pass
+#EXTINF:-1 ,Paramount Network HD
+http://185.218.193.133:9981/stream/channelid/108480291?profile=pass
+#EXTINF:-1 ,Nat Geo
+http://185.218.193.133:9981/stream/channelid/1574276116?profile=pass
+#EXTINF:-1 ,Yle TV1 HD
+http://185.218.193.133:9981/stream/channelid/1196281389?profile=pass
+#EXTINF:-1 ,Yle TV2 HD
+http://185.218.193.133:9981/stream/channelid/1480468532?profile=pass
+#EXTINF:-1 ,MTV3 HD
+http://185.218.193.133:9981/stream/channelid/1766194382?profile=pass
+#EXTINF:-1 ,Nelonen HD
+http://185.218.193.133:9981/stream/channelid/1080274821?profile=pass
+#EXTINF:-1 ,Yle Teema & Fem HD
+http://185.218.193.133:9981/stream/channelid/1262649635?profile=pass
+#EXTINF:-1 ,Sub HD
+http://185.218.193.133:9981/stream/channelid/2082288184?profile=pass
+#EXTINF:-1 ,TV5 HD
+http://185.218.193.133:9981/stream/channelid/370127843?profile=pass
+#EXTINF:-1 ,LIV HD
+http://185.218.193.133:9981/stream/channelid/986156640?profile=pass
+#EXTINF:-1 ,JIM HD
+http://185.218.193.133:9981/stream/channelid/358278314?profile=pass
+#EXTINF:-1 ,Kutonen HD
+http://185.218.193.133:9981/stream/channelid/768337305?profile=pass
+#EXTINF:-1 ,AVA HD
+http://185.218.193.133:9981/stream/channelid/849220661?profile=pass
+#EXTINF:-1 ,Hero HD
+http://185.218.193.133:9981/stream/channelid/841415135?profile=pass
+#EXTINF:-1 ,Frii HD
+http://185.218.193.133:9981/stream/channelid/1284512030?profile=pass
+#EXTINF:-1 ,inez
+http://185.218.193.133:9981/stream/channelid/68616478?profile=pass
+#EXTINF:-1 ,Nat Geo HD
+http://185.218.193.133:9981/stream/channelid/2135285366?profile=pass
+#EXTINF:-1 ,Telia TV Extra
+http://185.218.193.133:9981/stream/channelid/1167856790?profile=pass
+#EXTINF:-1 ,TV7
+http://185.218.193.133:9981/stream/channelid/1208537356?profile=pass
+#EXTINF:-1 ,Himlen TV7
+http://185.218.193.133:9981/stream/channelid/1844833665?profile=pass
+#EXTINF:-1 ,Inspiration
+http://185.218.193.133:9981/stream/channelid/2129944712?profile=pass
+#EXTINF:-1 ,Paramount Network
+http://185.218.193.133:9981/stream/channelid/1717290932?profile=pass
+#EXTINF:-1 ,France24
+http://185.218.193.133:9981/stream/channelid/1318188915?profile=pass
+#EXTINF:-1 ,NHK World Japan HD
+http://185.218.193.133:9981/stream/channelid/225632998?profile=pass
+#EXTINF:-1 ,Nasa TV UHD
+http://185.218.193.133:9981/stream/channelid/1688767355?profile=pass
+#EXTINF:-1 ,Disney Channel
+http://185.218.193.133:9981/stream/channelid/567245230?profile=pass
+#EXTINF:-1 ,Disney XD
+http://185.218.193.133:9981/stream/channelid/1369636991?profile=pass
+#EXTINF:-1 ,Boomerang
+http://185.218.193.133:9981/stream/channelid/1320184697?profile=pass
+#EXTINF:-1 ,C More Juniori
+http://185.218.193.133:9981/stream/channelid/1732137492?profile=pass
+#EXTINF:-1 ,C More Juniori HD
+http://185.218.193.133:9981/stream/channelid/829318113?profile=pass
+#EXTINF:-1 ,C More Max
+http://185.218.193.133:9981/stream/channelid/293933119?profile=pass
+#EXTINF:-1 ,C More Sport2
+http://185.218.193.133:9981/stream/channelid/1784386713?profile=pass
+#EXTINF:-1 ,C More Sport1 HD
+http://185.218.193.133:9981/stream/channelid/184488427?profile=pass
+#EXTINF:-1 ,C More Sport2 HD
+http://185.218.193.133:9981/stream/channelid/2109459909?profile=pass
+#EXTINF:-1 ,C More Hits
+http://185.218.193.133:9981/stream/channelid/2116032430?profile=pass
+#EXTINF:-1 ,SF Kanalen
+http://185.218.193.133:9981/stream/channelid/52709903?profile=pass
+#EXTINF:-1 ,C More First HD
+http://185.218.193.133:9981/stream/channelid/382524207?profile=pass
+#EXTINF:-1 ,C More Stars HD
+http://185.218.193.133:9981/stream/channelid/1350317835?profile=pass
+#EXTINF:-1 ,V film family
+http://185.218.193.133:9981/stream/channelid/10929636?profile=pass
+#EXTINF:-1 ,V film premiere HD
+http://185.218.193.133:9981/stream/channelid/1243379112?profile=pass
+#EXTINF:-1 ,V film action HD
+http://185.218.193.133:9981/stream/channelid/694274976?profile=pass
+#EXTINF:-1 ,V film hits HD
+http://185.218.193.133:9981/stream/channelid/178811441?profile=pass
+#EXTINF:-1 ,Viasat Explore HD
+http://185.218.193.133:9981/stream/channelid/2080801351?profile=pass
+#EXTINF:-1 ,Viasat Nature HD
+http://185.218.193.133:9981/stream/channelid/551554820?profile=pass
+#EXTINF:-1 ,Viasat History HD
+http://185.218.193.133:9981/stream/channelid/305469451?profile=pass
+#EXTINF:-1 ,V sport jalkapallo HD
+http://185.218.193.133:9981/stream/channelid/613682928?profile=pass
+#EXTINF:-1 ,V sport jääkiekko HD
+http://185.218.193.133:9981/stream/channelid/1687070804?profile=pass
+#EXTINF:-1 ,V sport live 1
+http://185.218.193.133:9981/stream/channelid/1443040689?profile=pass
+#EXTINF:-1 ,V sport live 2
+http://185.218.193.133:9981/stream/channelid/1071016861?profile=pass
+#EXTINF:-1 ,V sport live 3
+http://185.218.193.133:9981/stream/channelid/1318581018?profile=pass
+#EXTINF:-1 ,V sport live 4
+http://185.218.193.133:9981/stream/channelid/2066868811?profile=pass
+#EXTINF:-1 ,V sport live 5
+http://185.218.193.133:9981/stream/channelid/1601788560?profile=pass
+#EXTINF:-1 ,TV3
+http://185.218.193.133:9981/stream/channelid/1980391065?profile=pass
+#EXTINF:-1 ,TV4 HD
+http://185.218.193.133:9981/stream/channelid/1578580688?profile=pass
+#EXTINF:-1 ,Barnkanalen/SVT24
+http://185.218.193.133:9981/stream/channelid/1153206421?profile=pass
+#EXTINF:-1 ,TV6
+http://185.218.193.133:9981/stream/channelid/1306270084?profile=pass
+#EXTINF:-1 ,SVT HD
+http://185.218.193.133:9981/stream/channelid/367630184?profile=pass
+#EXTINF:-1 ,SVT2 HD
+http://185.218.193.133:9981/stream/channelid/250605271?profile=pass
+#EXTINF:-1 ,Investigation Discovery
+http://185.218.193.133:9981/stream/channelid/628713645?profile=pass
+#EXTINF:-1 ,Discovery Channel HD
+http://185.218.193.133:9981/stream/channelid/730243106?profile=pass
+#EXTINF:-1 ,Animal Planet
+http://185.218.193.133:9981/stream/channelid/130797240?profile=pass
+#EXTINF:-1 ,Discov Science
+http://185.218.193.133:9981/stream/channelid/1419993318?profile=pass
+#EXTINF:-1 ,Eurosport 1
+http://185.218.193.133:9981/stream/channelid/1043758321?profile=pass
+#EXTINF:-1 ,Eurosport 2
+http://185.218.193.133:9981/stream/channelid/317221238?profile=pass
+#EXTINF:-1 ,TotoTV
+http://185.218.193.133:9981/stream/channelid/1762390363?profile=pass
+#EXTINF:-1 ,TotoTV HD
+http://185.218.193.133:9981/stream/channelid/1302479128?profile=pass
+#EXTINF:-1 ,Nat Geo Wild
+http://185.218.193.133:9981/stream/channelid/1989010079?profile=pass
+#EXTINF:-1 ,Nat Geo Wild HD
+http://185.218.193.133:9981/stream/channelid/1048721645?profile=pass
+#EXTINF:-1 ,History HD
+http://185.218.193.133:9981/stream/channelid/694832306?profile=pass
+#EXTINF:-1 ,HISTORY2 HD
+http://185.218.193.133:9981/stream/channelid/310067071?profile=pass
+#EXTINF:-1 ,Ginx
+http://185.218.193.133:9981/stream/channelid/471697600?profile=pass
+#EXTINF:-1 ,MTV 80s
+http://185.218.193.133:9981/stream/channelid/1321724982?profile=pass
+#EXTINF:-1 ,Club MTV
+http://185.218.193.133:9981/stream/channelid/542365224?profile=pass
+#EXTINF:-1 ,MTV Hits
+http://185.218.193.133:9981/stream/channelid/1207709585?profile=pass
+#EXTINF:-1 ,MTV
+http://185.218.193.133:9981/stream/channelid/832641651?profile=pass
+#EXTINF:-1 ,MTV 90s
+http://185.218.193.133:9981/stream/channelid/1755256428?profile=pass
+#EXTINF:-1 ,MTV HD
+http://185.218.193.133:9981/stream/channelid/244854410?profile=pass
+#EXTINF:-1 ,Dom Kino
+http://185.218.193.133:9981/stream/channelid/37621957?profile=pass
+#EXTINF:-1 ,Vremya
+http://185.218.193.133:9981/stream/channelid/1001245712?profile=pass
+#EXTINF:-1 ,Muzika Pervogo
+http://185.218.193.133:9981/stream/channelid/1743114295?profile=pass
+#EXTINF:-1 ,Karusel Int.
+http://185.218.193.133:9981/stream/channelid/424088529?profile=pass
+#EXTINF:-1 ,Telecafe
+http://185.218.193.133:9981/stream/channelid/2025868036?profile=pass
+#EXTINF:-1 ,BBC World News
+http://185.218.193.133:9981/stream/channelid/1044041513?profile=pass
+#EXTINF:-1 ,CNN
+http://185.218.193.133:9981/stream/channelid/1521351049?profile=pass
+#EXTINF:-1 ,3sat
+http://185.218.193.133:9981/stream/channelid/1077988143?profile=pass
+#EXTINF:-1 ,Das Erste
+http://185.218.193.133:9981/stream/channelid/381455878?profile=pass
+#EXTINF:-1 ,RTL Television
+http://185.218.193.133:9981/stream/channelid/1002585643?profile=pass
+#EXTINF:-1 ,France 2 HD
+http://185.218.193.133:9981/stream/channelid/1563982686?profile=pass
+#EXTINF:-1 ,TV5 Monde
+http://185.218.193.133:9981/stream/channelid/1788820986?profile=pass
+#EXTINF:-1 ,Canal 24 Horas HD
+http://185.218.193.133:9981/stream/channelid/70955486?profile=pass
+#EXTINF:-1 ,ETV HD
+http://185.218.193.133:9981/stream/channelid/1017065229?profile=pass
+#EXTINF:-1 ,FTV HD
+http://185.218.193.133:9981/stream/channelid/334653113?profile=pass
+#EXTINF:-1 ,FTV UHD
+http://185.218.193.133:9981/stream/channelid/109870286?profile=pass
+#EXTINF:-1 ,Kärpät
+http://185.218.193.133:9981/stream/channelid/728810742?profile=pass
+#EXTINF:-1 ,Lukko
+http://185.218.193.133:9981/stream/channelid/643936095?profile=pass
+#EXTINF:-1 ,Pelicans
+http://185.218.193.133:9981/stream/channelid/32854000?profile=pass
+#EXTINF:-1 ,SaiPa
+http://185.218.193.133:9981/stream/channelid/1219789288?profile=pass

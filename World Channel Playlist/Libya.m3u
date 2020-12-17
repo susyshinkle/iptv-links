@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,LIB-Libya 24
+https://stream.218tv.net/libya218news/tracks-v1a1/mono.m3u8
+#EXTINF:-1,LIB-Al Nabaa
+http://31.14.40.238:1935/live/Nabaa/chunklist_w1044439584.m3u8
+#EXTINF:-1,LIB-Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8

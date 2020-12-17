@@ -1,0 +1,635 @@
+#EXTM3U
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/494" tvg-id="132b1812bf45854699331019567e43b7",RTP 1 HD
+http://185.140.53.177:9981/stream/channelid/303573779?ticket=3D60280CB0E1C9836E8F7E1B2377E1BF40D288DF&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/304" tvg-id="74c651a498329373a4bc900b2c212c3d",RTP 2 HD
+http://185.140.53.177:9981/stream/channelid/609338996?ticket=9409A836C2805F9D7F79D5739E093662FD783B5B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/273" tvg-id="0a5a46588e7de5be815520309be687e2",SIC HD
+http://185.140.53.177:9981/stream/channelid/1481005578?ticket=18528E844079451503654F8789DF49924ECEE7B5&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/274" tvg-id="4c8d4e982a7e33f5b6bef4ee6d151d4a",TVI HD
+http://185.140.53.177:9981/stream/channelid/407801164?ticket=5B22FF68D1E40A7F4E95232BA6F3FC1EACAF5371&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/462" tvg-id="84cd3233309b7925294be2498421834c",SIC Notícias
+http://185.140.53.177:9981/stream/channelid/858967428?ticket=3ECA781AC480C9EF6C643C4A2D1EFD8B0703920A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/450" tvg-id="0e6636fd3e17e52cd545b443f4066364",SIC Mulher
+http://185.140.53.177:9981/stream/channelid/2100717070?ticket=22CEC69E72F82955093F9BA200886F93CAA55646&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/376" tvg-id="8fb44a4cfe90b375a3e27831615b6b11",SIC Caras
+http://185.140.53.177:9981/stream/channelid/1279964303?ticket=C209528E5C5CA5918EEE8C64896ADC489043A7C9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/282" tvg-id="e410c0de2a2a0b1361a10e24309a22d7",Canal 11 HD
+http://185.140.53.177:9981/stream/channelid/1589645540?ticket=F3DC737DE2D585B6B43F9F85D3893F7409C69CAD&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/405" tvg-id="e55204638873b770605aca3f34a25fc4",CMTV
+http://185.140.53.177:9981/stream/channelid/1661227749?ticket=4BEE8ABE1F8D09AC3004EB8D381B0594AC3FACD2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/465" tvg-id="5b87f314df38733d156e7ce455fe298f",TVI 24
+http://185.140.53.177:9981/stream/channelid/351504219?ticket=FFAE3C5A61EE2F8ABD308F514C3EF1B714951031&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/336" tvg-id="dc2507b260858daad664c87d71a11095",RTP 3
+http://185.140.53.177:9981/stream/channelid/839329244?ticket=471B893FCEFA2A761FA56AB894C6E28A68035F72&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/310" tvg-id="4f1ac8afccd839e0abea0d579a7bacca",TVI Reality
+http://185.140.53.177:9981/stream/channelid/801643087?ticket=7C14EF0C4340D148A13E4B8F784191DD19C815C0&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/535" tvg-id="f7fd2ab4cca43b7c6459376b512ff7a5",TVI Ficção
+http://185.140.53.177:9981/stream/channelid/875232759?ticket=C2112BB261114EDD7D4B145922AB4541D7435F22&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/295" tvg-id="1a6b9077acfda9211919996fbe0e1472",SIC Radical
+http://185.140.53.177:9981/stream/channelid/2005953306?ticket=F6546F8DE6C834F69F111C887E5805487A534FDE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/464" tvg-id="be507ac791ff72b4bd5d778912dec0c0",Globo
+http://185.140.53.177:9981/stream/channelid/1199198398?ticket=BCEB33F1CCE3367D3A35C189EDF38EEBE1A085BB&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/329" tvg-id="1401aefb83d8edc953f271c3ae01d155",RTP Memória
+http://185.140.53.177:9981/stream/channelid/2075001108?ticket=D9BA148D5B29EF202EA591BA87C6F70F1531B1EC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/292" tvg-id="5964211f5db1299af74598207a91361e",RTP Madeira
+http://185.140.53.177:9981/stream/channelid/522282073?ticket=8F28771C8BF0722AF19B95BF20D23C3A03E13A71&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/300" tvg-id="7f5d255a12d0a9f8c288b7f624a576ac",RTP Açores
+http://185.140.53.177:9981/stream/channelid/1512398207?ticket=5A02EF144EC8809EBE056A5A3001A2956AC7C56E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/526" tvg-id="d61ffc85f69aecc0091442d163cf0fb3",Porto Canal
+http://185.140.53.177:9981/stream/channelid/100409302?ticket=7DB2C36EB4AD5FAA82FCF0A1C670B662E0049CD6&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/332" tvg-id="e8824e4515354fb50a5c8336555ea4f7",Canal Q
+http://185.140.53.177:9981/stream/channelid/1162773224?ticket=3AD3F58FAC86BF61D8C43514DE82C40893F23ABD&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/486" tvg-id="0ad7d3757b20696715d66b246b108d0e",SPORT TV+
+http://185.140.53.177:9981/stream/channelid/1976817418?ticket=096D484E7F89F30F841A51B9EF3F3A7A57553981&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/483" tvg-id="7e9a3d4900e1644d2971b0280098f0d6",Sport TV 1
+http://185.140.53.177:9981/stream/channelid/1228774014?ticket=646FD2E3E4A6A7439606921E356A665F39268532&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/504" tvg-id="a53ce3812dfb158bf24d35b143ae0f37",Sport TV 2
+http://185.140.53.177:9981/stream/channelid/31669413?ticket=606B4657C065F470F4D6FEE6872D04EC361B554D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/491" tvg-id="82d247873fdb983639ad8df6d6c97568",Sport TV 3
+http://185.140.53.177:9981/stream/channelid/122147458?ticket=0B19042D34109F3494D439E75AA4DA87F2A59CDB&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/505" tvg-id="cfc88d13b14b9a76cd8a3f5d2fbe85b9",Sport TV 4
+http://185.140.53.177:9981/stream/channelid/328059087?ticket=799EB970F03A1224C422D38D69D2EF0898D1D799&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/296" tvg-id="642ee66ff2dc99816978cfda5a045ae1",Sport TV 5
+http://185.140.53.177:9981/stream/channelid/1877356132?ticket=A4B574699041F6012CDBB64561191729C85C6AAE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/301" tvg-id="05d5eda4c4f58aa15a816088c3050509",Sport TV 1 HD
+http://185.140.53.177:9981/stream/channelid/619566341?ticket=57D6DA22645F95CF12D5524509821C5E1FDD317D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/496" tvg-id="6f9bafdd8e287f110cfafa35a0eb8b90",Sport TV 2 HD
+http://185.140.53.177:9981/stream/channelid/1571789679?ticket=D85CE26DDAD2FC4B75EF0F32FC0FBDF2DF39712E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/469" tvg-id="c2d1b4a135a176072a62ecc346f6626f",Sport TV 3 HD
+http://185.140.53.177:9981/stream/channelid/565498306?ticket=0E65415F2B500F9EF3CC14FD8D846F2C7B304A30&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/263" tvg-id="885cca73ecc8ced8a69250f18594dc5a",Sport TV NBA
+http://185.140.53.177:9981/stream/channelid/1942641800?ticket=BB6FCA6FD325BA3CF1F32178EFB0D9108CF78450&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/158" tvg-id="5915d614ae07692a07a062e46364c4df",Eleven Sports 1
+http://185.140.53.177:9981/stream/channelid/349574489?ticket=D04118F64BB2222F4A2540B3447A912F01F88968&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/79" tvg-id="cdc23649273f0a87ba89f4708bdddc50",Eleven Sports 2
+http://185.140.53.177:9981/stream/channelid/1228325581?ticket=6703EA85569BF8268903BEBEC7B916114F4EAD4C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/315" tvg-id="9a9f59995d4bd90ab0d33c0b73106fe2",Eleven Sports 3
+http://185.140.53.177:9981/stream/channelid/425303962?ticket=12E671038F5322246B8EE1177E811605A45DCF1D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/186" tvg-id="c3c217b1c41905a7c35a886601d0425e",Eleven Sports 4
+http://185.140.53.177:9981/stream/channelid/823640771?ticket=421039C47A94C6ED55E8D308C5A6FE6803260894&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/269" tvg-id="7383209c520874c111e5dcd828d23fe4",Eleven Sports 5
+http://185.140.53.177:9981/stream/channelid/471892851?ticket=BA1ABCABCB21267CFF26FE6180CBC5986ECDFB67&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/291" tvg-id="a5079221e292d9a79b516235712418ff",Eleven Sports 6
+http://185.140.53.177:9981/stream/channelid/563218341?ticket=B965D5D54B22E59AFDE2DB20DED89D23F405BF3D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/298" tvg-id="0bd7513b6193042fcafd989198f023c6",BTV 1 HD
+http://185.140.53.177:9981/stream/channelid/995219211?ticket=07F665FAD2C26911F604FE91AEF0A31E95C4FCEF&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/302" tvg-id="e8e901f5ed738bb328f328271b067f9a",Sporting TV
+http://185.140.53.177:9981/stream/channelid/1963059688?ticket=4CAD827A75C7F7F80096B6791FD60C60CADAD46A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/286" tvg-id="0344b49281218b5ea9de41b4f9701e03",Disney Channel
+http://185.140.53.177:9981/stream/channelid/313803779?ticket=5D339ED75669BB8CA1AFE366AD80696D42BB3B46&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/275" tvg-id="b138a8b5da3857d933562eb72cefce60",Nickelodeon
+http://185.140.53.177:9981/stream/channelid/900217009?ticket=EA964008ED8DB404183B48938B806FF7B8B67F4D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/278" tvg-id="0eaa2ff064498ea6a561e3694d2aebda",Nick Jr.
+http://185.140.53.177:9981/stream/channelid/1882171918?ticket=4A4CA2A9725983D2A34366968CA806CBE8060C4A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/309" tvg-id="91b58e867b1c2bbb87f76e7e023af1a8",Canal Panda
+http://185.140.53.177:9981/stream/channelid/110015889?ticket=62213C214FC71FEE07265751E2FE39DD9FADD6E0&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/305" tvg-id="cd4b12a6a499db0d62cbbfe4fcc5c4eb",Biggs
+http://185.140.53.177:9981/stream/channelid/638733261?ticket=446DEDDD6D7A43EEC30DE1CEEB35442E3A585FF0&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/506" tvg-id="5071c9f0ee3fc186d4598b07d3205a0a",Disney Junior
+http://185.140.53.177:9981/stream/channelid/1892249936?ticket=1A0F7BB11EDF171A312EFEE97999793F2F277996&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/525" tvg-id="e5d02401b5d68546cf80e83dc785f095",SIC K
+http://185.140.53.177:9981/stream/channelid/19189989?ticket=1BD8478ACE1EE57730343AB5A7732AF05651F359&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/325" tvg-id="9797347e12b991845cdbef17dcb2b293",Baby TV
+http://185.140.53.177:9981/stream/channelid/2117375895?ticket=7548A7E3693E58C2070E679880408DDB78DE09D6&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/330" tvg-id="d16989b99ac538472d60d8f701adb9a0",Cartoon Network
+http://185.140.53.177:9981/stream/channelid/965306833?ticket=77306EC5F2D9C99CF6D5EC71161BED0195F3364F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/320" tvg-id="21b9955ce204450924c04a24fb20f56f",E! Entertainment
+http://185.140.53.177:9981/stream/channelid/1553316129?ticket=61E42548957F400E33F783B4C3D584FCC448D63D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/323" tvg-id="e494a654fe9d22210294cfb535679308",FTV
+http://185.140.53.177:9981/stream/channelid/1420203236?ticket=E919ADBEBFE0671559690CF2781BF56D3FCCB5C2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/288" tvg-id="90790d96854bf1decae2c7dfd479bd48",BBC Entertainment
+http://185.140.53.177:9981/stream/channelid/369981840?ticket=F0285C6837E97B18A8CCC1EB484BF3B2ED13AEA4&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/501" tvg-id="90a9143f0a373eac4b0011333e8f2808",FOX Movies
+http://185.140.53.177:9981/stream/channelid/1058318736?ticket=DA6092CA969FEF6E1CD90858087D939593CD9A65&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/476" tvg-id="0ce83abe659f152665716b32564fa7ab",Hollywood
+http://185.140.53.177:9981/stream/channelid/1044047884?ticket=8EA51BC17A0193F903031B2D8A833ADB01AE3086&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/279" tvg-id="e26cfa12626aca6492098274eb5231f6",TVCine TOP HD
+http://185.140.53.177:9981/stream/channelid/318401762?ticket=6604A76626C375BE8EBB71E3D477B9227AFCDE9E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/272" tvg-id="229e43b43d4092954f9c9c5910a40862",TVCine EDITION HD
+http://185.140.53.177:9981/stream/channelid/876846626?ticket=3CE7A1FC63B08DED40ABFC326364E22425042B6E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/270" tvg-id="80831734bc0774be815ff2a0b969700c",TVCine EMOTION HD
+http://185.140.53.177:9981/stream/channelid/873956224?ticket=9242A37D4E5FCE9C66C243EFE5FFB03AA866EF6E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/283" tvg-id="1949a53022777de5ba1ee11987492287",TVCine ACTION HD
+http://185.140.53.177:9981/stream/channelid/816138521?ticket=C110293B8331F12AAC8C7CF7E204DDA16DE1C4ED&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/517" tvg-id="39ef60c4e683258dad0acaef66936c77",TVSéries HD
+http://185.140.53.177:9981/stream/channelid/1147203385?ticket=34AB5CD339DA0800948EA03A5B30DE8309FC24C3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/513" tvg-id="381d829354c1255d2f1fd10a5529ec3e",NOS Studios HD
+http://185.140.53.177:9981/stream/channelid/327294264?ticket=46C9844850F15BC93CBEFA658FFA1399BBEA15C5&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/534" tvg-id="c8db9013f95e4f81e7f0bc43fca64fd2",AMC
+http://185.140.53.177:9981/stream/channelid/328260552?ticket=3FF850F3DA9DDCC174909FFED524A8380FC3119C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/280" tvg-id="7f89cf0b6283d27a2455346348f349b1",AMC HD
+http://185.140.53.177:9981/stream/channelid/198150527?ticket=48DE536C674D57291C231C656A2224ED333E95B0&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/331" tvg-id="729a72f134b4c4c0ac0919a4919fa6c6",AXN HD
+http://185.140.53.177:9981/stream/channelid/1903336050?ticket=28984291A7C7B87DE71CE1E8C38375EA2C90FABD&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/260" tvg-id="18e79cd4cffa0104af752c7de4dae8ad",AXN White HD
+http://185.140.53.177:9981/stream/channelid/1419568920?ticket=91B75CCDBE49D873E524191202B20809A854289C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/264" tvg-id="ea0c028fab7368ca067edb8fdf21e40c",AXN Movies HD
+http://185.140.53.177:9981/stream/channelid/251792618?ticket=EB5ED7E4189C8A79ADC94123AD135FEE81AEDF99&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/268" tvg-id="44f2966382a16d363342c47032eae056",FOX Life HD
+http://185.140.53.177:9981/stream/channelid/1670836804?ticket=ECDD04925CD542605F4A65EC56B4E1B8B2BCB212&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/299" tvg-id="6bb5cf8d102607bde5e6c8f996483311",FOX HD
+http://185.140.53.177:9981/stream/channelid/231716203?ticket=2259FC9EE09A2BDD086723D2EAA91F5617D6F545&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/266" tvg-id="93e3d9b6eb8a008597a06fd450e0d20c",FOX Crime HD
+http://185.140.53.177:9981/stream/channelid/920249235?ticket=D8614914D0F0E050A891E17FE3BF94C8E78F9DC1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/316" tvg-id="8542dbd7b16d2e17dd07239f268597ec",FOX Comedy
+http://185.140.53.177:9981/stream/channelid/1473987205?ticket=9EA5DCF641B6220CE0349B8F27C280E42E713FC5&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/421" tvg-id="1b6365171657a01208346c32726cf6e8",SyFy
+http://185.140.53.177:9981/stream/channelid/392520475?ticket=793570A454F8D4F3AADBED9161F12EC746077FA4&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/285" tvg-id="e95960c5fc2bbe58e11a0497c4903c32",Discovery HD
+http://185.140.53.177:9981/stream/channelid/1163942377?ticket=099457902ED3BF9B7596DE726A32AD1B4D6F3C82&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/287" tvg-id="0da5d29ab1b5cd406aab780913f81e25",Motorvision
+http://185.140.53.177:9981/stream/channelid/450012429?ticket=F8A694DFCD43137871CCDF7452784F2F647C3FB6&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/276" tvg-id="fb4a87dfebb6753a8647b259ce4df9cc",Fuel TV
+http://185.140.53.177:9981/stream/channelid/1602702075?ticket=6B81575939A1986D30DDDF10A95D8AE43A31C563&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/463" tvg-id="7f97842c85a526debd2d6feb301e37d0",Odisseia
+http://185.140.53.177:9981/stream/channelid/746887039?ticket=F0100566BEEE16363F794B2A6983FE34C9823DBB&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/470" tvg-id="aeea0316cbaa4609b4c46eaa8eaaa302",História
+http://185.140.53.177:9981/stream/channelid/369355438?ticket=8F676A826936891BE005388B31EC4F491FEA6F74&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/337" tvg-id="3863ca7e8dd4b556471831b04302a924",Crime+Investigation
+http://185.140.53.177:9981/stream/channelid/2127192888?ticket=42BA4027C17AC74C46D17971CE38CAD40E1E58CE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/262" tvg-id="f62095ff768b93f2f93264a3005fa261",ID Investigation Discovery
+http://185.140.53.177:9981/stream/channelid/2140479734?ticket=DF6251C094DE2A07FBA40DE2DF416ABC815EF5D5&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/478" tvg-id="e8f57e30e3b1388bf04e7ebfcaf7d35e",TLC
+http://185.140.53.177:9981/stream/channelid/813626856?ticket=90070D901E6F35722466B819E823D9B079FF40C8&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/385" tvg-id="600e014e094471e20eea0553470b9639",Eurochannel
+http://185.140.53.177:9981/stream/channelid/1308692064?ticket=15DBADAB9500C9CC134B7E4CF04EA1958509C57A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/312" tvg-id="00683141e3c27c52cce5df647b4cab9c",Blaze
+http://185.140.53.177:9981/stream/channelid/1093756928?ticket=A781B2D4DBBCD979AAF3644349F5EA7CA0CDF121&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/308" tvg-id="1a16cee4c723b7eccfc5e93136d577c3",National Geographic HD
+http://185.140.53.177:9981/stream/channelid/1691227674?ticket=304A27CA5259A97171199E8875A3E4DAA653A6BC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/370" tvg-id="beb77b4c411a653a54e41948ce26465e",National Geographic Wild
+http://185.140.53.177:9981/stream/channelid/1283176382?ticket=501A68EF852A1C82CEFBA0EFC70F411CEC3B21BA&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/267" tvg-id="24930f6dd6b4df844e77814bd596954d",Travel Channel HD
+http://185.140.53.177:9981/stream/channelid/1829737252?ticket=C060D0A7D0CCF1B9A16A961364BC62C959EC530F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/271" tvg-id="3c7a3301a0c3cda15e800aadbd359759",Casa e Cozinha HD
+http://185.140.53.177:9981/stream/channelid/20150844?ticket=29D88628BB93D05D681AD68B0F64D26DFE7AA9FB&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/265" tvg-id="efc2f8bffee97f8d53e38f37a1056b9b",24 Kitchen HD
+http://185.140.53.177:9981/stream/channelid/1073267439?ticket=B101BC918F16682284E17F425C19E15C4B19F972&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/531" tvg-id="5d2ba0cf19a4cade986f0fc7fb19013b",Eurosport 1
+http://185.140.53.177:9981/stream/channelid/1335896925?ticket=01E963F949405200A04274589E9F5C4740B7F705&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/328" tvg-id="a5d267ec9e400e2a7131cb799347f4aa",Eurosport 2
+http://185.140.53.177:9981/stream/channelid/1818743461?ticket=CA40BB7F25A9A2FFDCDFE656DDBBD6BF672A5757&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/261" tvg-id="6048df3fff67e493f7f9c77b723b4dec",Eurosport 1 HD
+http://185.140.53.177:9981/stream/channelid/1071597664?ticket=C4D7755587DFBE1163C3729B5C19372B6D6EEA4C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/467" tvg-id="fb8b69a832c8305eecb6c868b9637d51",Toros TV
+http://185.140.53.177:9981/stream/channelid/678005755?ticket=8C4BE0BED0909847DED24310DDC50A3049F7C03C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/277" tvg-id="f9548894dbdb704cb3c6f9f4ab76e0e9",Caça e Pesca
+http://185.140.53.177:9981/stream/channelid/344478969?ticket=71D8D4FDD7AAC76063581CA2E69581264E2EB7A1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/284" tvg-id="96c9104ce24b2e7a2f3d069db579196c",Trace Toca
+http://185.140.53.177:9981/stream/channelid/1276168598?ticket=A75E9D0B81A63EC2AE1F9B62AE645DCC119DC6C1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/477" tvg-id="8cbb17e23360bf2b4f9c3867c3ba1425",MTV Portugal
+http://185.140.53.177:9981/stream/channelid/1645722508?ticket=266640C28BAC8A8EC738004B825C418773EB6A59&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/510" tvg-id="ccd064f525b65135a440bd5ba3b56cc6",VH1
+http://185.140.53.177:9981/stream/channelid/1969541324?ticket=2BA296781660AAC03B0D06BE998E7FEB57AEBFAD&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/293" tvg-id="9dc848e5f1e3c9869ebc373d2edc31a2",MCM Pop
+http://185.140.53.177:9981/stream/channelid/1699268765?ticket=492BF0623957E437D0FD8888D401ABC7FA7A189A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/311" tvg-id="a2f433b2c9037e72095aa47aa41e560b",Mezzo
+http://185.140.53.177:9981/stream/channelid/842265762?ticket=9121A3A77DF2ECB50BB7DACE171026D5126AF1A2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/314" tvg-id="60a092f400fbb9eb99bf7d5fc5c931a5",Globo Now
+http://185.140.53.177:9981/stream/channelid/1955766368?ticket=6B6AA6D1AD6A736D36A87CCDCB8B7A2DC7B65845&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/487" tvg-id="78dc5fb8d3227f08085d6754f8f8a6b9",TV Record
+http://185.140.53.177:9981/stream/channelid/945806456?ticket=AB1B28C31929702C04800CA396452FA33AF0EAD6&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/459" tvg-id="23e39f889c8cec68515b71c9113e2312",TSA-Record TV HD
+http://185.140.53.177:9981/stream/channelid/144696099?ticket=327321623312B79FD74BFA2D795CC8A2C05C3F3F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/460" tvg-id="b14aa2aeb6aa98eddba2e1fcd6c0630f",TSA-Record News
+http://185.140.53.177:9981/stream/channelid/782387889?ticket=686A8BA6982BE1C73BD85EDA473DF57908D6261E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/321" tvg-id="031816755b743a58cfd2261e07242e48",PFC
+http://185.140.53.177:9981/stream/channelid/1964382211?ticket=630536166EC608851F0C738456F44FAF48904F71&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/324" tvg-id="3b6b3a031640af5546ff7350de0faeec",Kuriakos TV HD
+http://185.140.53.177:9981/stream/channelid/54160187?ticket=E8C29B1D08F1F387146AB36A6C513C7A31B43E02&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/326" tvg-id="38e2b6b80a82ec6115ca1942a2670183",Canção Nova
+http://185.140.53.177:9981/stream/channelid/951509560?ticket=C9B37EF29799C28EC61FAC37DB766CF9489AD493&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/294" tvg-id="0847bb5577c7a12ad99d495240d508f8",ZAP Viva HD
+http://185.140.53.177:9981/stream/channelid/1438336776?ticket=1F90ED3F44912DE4F71DDDCB559CDA98A06345E2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/307" tvg-id="f64c98f7034f0ee7f296a6685404dfb0",RTP África
+http://185.140.53.177:9981/stream/channelid/2006469878?ticket=E2FEB54196CACEC9D909E11C5DDCD2D62590CFB7&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/516" tvg-id="6b332308d05fd9fddf43c8c7b0e97bda",AJE
+http://185.140.53.177:9981/stream/channelid/136524651?ticket=3906807B23AD3792D8CB40F8F9AB2469B5B43E38&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/334" tvg-id="71d9ef5232564bedb5af746ec3d1910b",Euronews
+http://185.140.53.177:9981/stream/channelid/1391450481?ticket=346E5DD1CADBDA709C23361D43D0DCE805600687&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/322" tvg-id="4936e63464ddce85d35410879d5d6596",CNN
+http://185.140.53.177:9981/stream/channelid/887502409?ticket=1A03C2DB8C361856F442697FE6073145C4D96519&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/489" tvg-id="963538ce26c4aba2dcfe1f73ea055050",Sky News
+http://185.140.53.177:9981/stream/channelid/1312306582?ticket=C305D596AC775B9E2D103B3F4767EFA9932BF7E2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/335" tvg-id="cc29cf3d98f1784c618b0e3dde37c9b0",BBC World News
+http://185.140.53.177:9981/stream/channelid/1036986828?ticket=CE0D82F0876596F9D6BF3243794ACE676523549D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/537" tvg-id="02f8bbe1a8b3c1d3c61dec984d74836e",RT Esp HD
+http://185.140.53.177:9981/stream/channelid/1639708674?ticket=17859A6FCF79912F058A6E528DEECF7D9D8B05B1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/533" tvg-id="db011da5dfdc924ed80cc5b9c38b868a",Telesur
+http://185.140.53.177:9981/stream/channelid/622658011?ticket=75EDA272720BEABC0AEB50A1D7489AEB68002511&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/289" tvg-id="9b9318e760d9fe67910572d332d7db55",CUBAVISION INTERNACIONAL
+http://185.140.53.177:9981/stream/channelid/1729663899?ticket=91CEC93AE8C3E048DF5420F4C7CEA51012B9F1FE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/318" tvg-id="62f7a96f4f6843eb6162262d2686b045",France 24 (I)
+http://185.140.53.177:9981/stream/channelid/1873409890?ticket=9114DBA302C0579CD367F53BA22D51F728D0E5B5&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/456" tvg-id="f5bfeb3af6db9ef8af146271a8dcaa24",France 24
+http://185.140.53.177:9981/stream/channelid/988528629?ticket=4D0630321DFB6FAE9A9E954FF20C6926E5D7E483&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/327" tvg-id="1e675bbf059635b1711670303defa708",CNBC
+http://185.140.53.177:9981/stream/channelid/1062954782?ticket=4E0464C1089D4A47A381DD6AD8EE484522AC04BF&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/319" tvg-id="9c84b03461a8553395846c0aa707df01",Bloomberg
+http://185.140.53.177:9981/stream/channelid/883983516?ticket=B4F05F3D10A0F8F2597CBBC56B0924D0A73194EB&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/498" tvg-id="9103b32e7e5a0846ff5f0bc608c5ebd4",TVE 24h
+http://185.140.53.177:9981/stream/channelid/783483793?ticket=57C2CCF4E26D5CA3556D54E368E58E0141F20AED&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/514" tvg-id="d47400b527d5f6f883e2f0400f0600cc",ARTV
+http://185.140.53.177:9981/stream/channelid/889222356?ticket=60CCBA959E88E6500AD7180AB5E3D4141D7C087E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/472" tvg-id="add73408ad7506d15248748b098c3df3",Parlamento
+http://185.140.53.177:9981/stream/channelid/137680813?ticket=3DF94A43304E58C4007257369200CF2169CC56AC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/306" tvg-id="f29161479f091ab1b1286e2196c7d443",TVE Internacional
+http://185.140.53.177:9981/stream/channelid/1197576690?ticket=CB7D4520C47FB8939ACA0FC4E2E078B4F0D7C053&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/509" tvg-id="2ee8714fbccb0ab69864474cfd229d97",TV Galicia
+http://185.140.53.177:9981/stream/channelid/1332865070?ticket=7B1118F2FBEA8C7F581AF41FFF5D4122EA7E2AD9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/473" tvg-id="2f2b324613c30c68bc4f0342f658335e",TV5 Monde
+http://185.140.53.177:9981/stream/channelid/1177692975?ticket=A26C4C47BBABF588B8FFC8450D30B090F2284057&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/297" tvg-id="18f92fc7e5ba199e9ef1a2a16dd3d273",Hot
+http://185.140.53.177:9981/stream/channelid/1194326296?ticket=54CA27CE4317B54D96E4F990A636EEC69C1140E4&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/359" tvg-id="b7130b7d5b5e7da4aa21ad0d40aa6283",Venus
+http://185.140.53.177:9981/stream/channelid/2097877943?ticket=8FDE7266F6AF2D903D820E20B3A1DF4B83374D81&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/317" tvg-id="009d70b8277c7efc7e2e6f8da568dc36",Playboy TV
+http://185.140.53.177:9981/stream/channelid/946904320?ticket=3AFC9964FDE248F3967DE634C1FD5379CA4B6A1E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/368" tvg-id="4abac0904dcb5aede24ab98a96304cde",Hispasat 4K
+http://185.140.53.177:9981/stream/channelid/281066058?ticket=61FF618E903E6E77CA0B1E5E558C9FCB88320B02&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/419" tvg-id="6441554fa3e7a4fd61a576cbe92ced48",RTP1
+http://185.140.53.177:9981/stream/channelid/1330987364?ticket=A187F6C71F9772A70A4BA52CB068969E040B9F9E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/420" tvg-id="84d14097c6b7bf82c6bdbc1419543d8e",RTP2
+http://185.140.53.177:9981/stream/channelid/390123908?ticket=85FAB086101A478433F92002030C15778FAFB05C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/395" tvg-id="7b77f640af93b155a337b5c52a26ee50",SIC
+http://185.140.53.177:9981/stream/channelid/1089894267?ticket=961939A92586E4FC67BA6C4058FA7EE810E24294&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/365" tvg-id="d8eb2a59988aba0b38f4c64f3a195f27",TVI
+http://185.140.53.177:9981/stream/channelid/1495985112?ticket=C37BC61A155B2B8D6C3ABBB88ECA64754F5A046B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/398" tvg-id="7d85d3de3a59c56c35dd915c111f4ba2",SIC Notícias
+http://185.140.53.177:9981/stream/channelid/1590920573?ticket=65F34E5F83F64D5C80391768B5D732CE50D48183&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/333" tvg-id="825a657dc85cfb7e27ff224d51377901",SIC Caras
+http://185.140.53.177:9981/stream/channelid/2103794306?ticket=DC2F1A988DC348709C1B04C5B52F850AB506EAED&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/418" tvg-id="706eadf98f12eeae489baa57af0ac54b",RTP3
+http://185.140.53.177:9981/stream/channelid/2041409136?ticket=5DC344B73CC9437BFEDF6178D9CB0351ED68227C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/449" tvg-id="ebf3fa194c576205e5494a702b385228",TVI24
+http://185.140.53.177:9981/stream/channelid/435876843?ticket=0A286B7BD4A9D8C6EB2CA5C16473645D417D4823&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/303" tvg-id="8d56005aea84e10a34ba34bf62851bda",CMTV
+http://185.140.53.177:9981/stream/channelid/1509971597?ticket=42B70FC755667170E2249586B20268355C11B273&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/508" tvg-id="2446d9f4688dadf7827efcbd2a9416dc",SIC Mulher
+http://185.140.53.177:9981/stream/channelid/1960396324?ticket=D376D4D07BD822ECCFE43CA13EAF629075E301A9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/461" tvg-id="629de42c8dc40690007ac01911e91afc",11
+http://185.140.53.177:9981/stream/channelid/753180002?ticket=6358AB625F7D20CCC419571BD45CEA4ABBC01621&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/415" tvg-id="ec20d32ec5965fab303e284f633b741a",TVI Ficção
+http://185.140.53.177:9981/stream/channelid/785588460?ticket=ABDBE5CC3BCFB7D9FE6064CFCA56F77651948134&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/578" tvg-id="ab82d286c60f576117de1b8edc1dc928",TVI Reality - Big Brother
+http://185.140.53.177:9981/stream/channelid/114459307?ticket=189CF52F5757F3D696D90351BC97BEDBF4A6482C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/416" tvg-id="b169249f5f61332bf2dfdad41a089d69",A Bola TV
+http://185.140.53.177:9981/stream/channelid/522480049?ticket=61E657E52100A6A1072DE6D9407EEF3A12623C70&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/372" tvg-id="1debcf9e3abb08866caa81f370307595",Porto Canal
+http://185.140.53.177:9981/stream/channelid/516942621?ticket=D348FB7F4A4FAE805D6C80B56AD1C71B1FFD8DDA&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/371" tvg-id="78fa2afa0fae7373475a7a514dc1d3cd",SIC Radical
+http://185.140.53.177:9981/stream/channelid/2049636984?ticket=C84AB8C69DFFBB2CD58511BAD634841989DF94D0&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/391" tvg-id="eb7e68f6ea018e1a44fd305596dcd76c",Canal Q
+http://185.140.53.177:9981/stream/channelid/1986559723?ticket=3D1BDB65934CA0096833438FA8BB87EA0A93D10B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/374" tvg-id="0914ee1834377986b7be7b19073487b4",RTP Memória
+http://185.140.53.177:9981/stream/channelid/418255881?ticket=3E01F27F15CFE8BBDE252A93E208BFF81292A903&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/428" tvg-id="5c9576f6b36107e774d5928f45678738",RTP Açores
+http://185.140.53.177:9981/stream/channelid/1987482972?ticket=85FC1AE84498BED02A0201AA468E87713E671964&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/427" tvg-id="36d3b5268ccbbd36133b183da1f94c2d",RTP Madeira
+http://185.140.53.177:9981/stream/channelid/649450294?ticket=4E6ADC3A961AF4CD0941B48F40584E0D83148118&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/458" tvg-id="97e09621a31c43de11a8c380a8a151f5",SPORT TV +
+http://185.140.53.177:9981/stream/channelid/563536023?ticket=F551C0C00DD8F6DD467B948A591A98E296AD3C2F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/366" tvg-id="963b347ea7f18a7cf6db9f2b5266354f",SPORT TV 1
+http://185.140.53.177:9981/stream/channelid/2117352342?ticket=F597EFED67AE349B104E340F34409D5959E5F0C2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/396" tvg-id="c57e0ec14cb59710ed0da7ee19d13c63",SPORT TV 2
+http://185.140.53.177:9981/stream/channelid/1091468997?ticket=F213FD9F76ADA1A613CE027931F1BB3CE94484E3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/410" tvg-id="e07e05a9dbb7b6e84acd68ea688970bc",SPORT TV 3
+http://185.140.53.177:9981/stream/channelid/688226016?ticket=8C76699C4CCB6E3A1D728EA95D5C6B145D496C6A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/446" tvg-id="99257bd58f022755d83f89d580d04d58",SPORT TV 4
+http://185.140.53.177:9981/stream/channelid/1434133913?ticket=7B720AC3C447357A69F565DE796535933B3D7FB8&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/507" tvg-id="52a17215316f6d8530a921a719cd8926",SPORT TV 5
+http://185.140.53.177:9981/stream/channelid/359833938?ticket=92F3EE924A0B5B21341AC15DE4BA3C68A26A88D3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/343" tvg-id="57cf95374e7650b487ec6bab6dd0dfb3",SPORT TV 1 HD
+http://185.140.53.177:9981/stream/channelid/932564823?ticket=081A319351485C9A7A6C748A039B56E8360E4850&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/345" tvg-id="09be5088c66ccd161ef4b33bb6480d56",SPORT TV 2 HD
+http://185.140.53.177:9981/stream/channelid/139509257?ticket=84F897D0BD9D0FA0C117E8125A7C52F8FD0B9E81&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/344" tvg-id="c010d7b5670ef9dccdafacb754c5a11d",SPORT TV 3 HD
+http://185.140.53.177:9981/stream/channelid/903286976?ticket=DE2970E5CF9D87031DECB4EABC42A0ACD89526BA&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/362" tvg-id="1c0827b565f97276b802bfbaf1894d7e",NBA TV
+http://185.140.53.177:9981/stream/channelid/891750428?ticket=0E37DF7F346C0117FC129F0B1020C7FF3324B2CE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/406" tvg-id="afabe971880617414b9ac59d6fcb607a",Eleven 1 HD
+http://185.140.53.177:9981/stream/channelid/1911139247?ticket=0D4D602286C7E4B701CEBD5EFDCB0AB751A00273&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/511" tvg-id="247ba1de39a8fcee2f6bf25bc3c5a966",Eleven 2 HD
+http://185.140.53.177:9981/stream/channelid/1587641124?ticket=C8AB2ADFA9ADB70E6D7DA5ECEA9F0883F19EA613&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/380" tvg-id="e63e004ba10f937cf3f2be164ff428cd",Eleven 3
+http://185.140.53.177:9981/stream/channelid/1258307302?ticket=D20F5512BB1C549A2AD881B085861ED9B8D8C343&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/545" tvg-id="cd0b281a2afc8c9329035afd1a669f79",Eleven 4
+http://185.140.53.177:9981/stream/channelid/438832077?ticket=78449C00940AA39F189AC890680FC695064F45C2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/407" tvg-id="f2de33145d191f40bc2d6110e0ad7900",Eleven 5
+http://185.140.53.177:9981/stream/channelid/338943730?ticket=F12A45A225ADDDEC75E4B90D2B62E8741F10A410&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/403" tvg-id="06885488740ec6cd584e81b9ec91fd46",Eleven 6
+http://185.140.53.177:9981/stream/channelid/139757574?ticket=B82FD7C7C9C12CDF5E0A3DA288FD0E2D28755F0C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/349" tvg-id="3befd881faf19abab1f58c5bd6040627",BTV HD
+http://185.140.53.177:9981/stream/channelid/30994235?ticket=69CE825F5A852884E64B01910F96B09FFBF845B8&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/481" tvg-id="d1433666d7aaba94d4687583c68e4a48",Sporting TV
+http://185.140.53.177:9981/stream/channelid/1714832337?ticket=C936499EFB30AC13A4AB4D481FACFA0C39BBCA9E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/356" tvg-id="1946c35da1ded0221bf5d22b3c215ac9",Eurosport 1 HD
+http://185.140.53.177:9981/stream/channelid/1573078553?ticket=966C1FBE3041418E85446E6F4128EB5AA2675A36&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/429" tvg-id="9f00202c7093d8754fde84769abcf109",Eurosport 1
+http://185.140.53.177:9981/stream/channelid/740294815?ticket=02BFA8675158CF8232F9A7F64835B60997FFF1F2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/401" tvg-id="e92cf00c4a9354f1bc6e916203f3ae4a",Eurosport 2
+http://185.140.53.177:9981/stream/channelid/217066729?ticket=15823115755104054635524E7EFA39E7F3988D5D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/412" tvg-id="207474fbb0783f4379e8ddc21f42ede2",Disney Channel
+http://185.140.53.177:9981/stream/channelid/2071229472?ticket=40E4B684F0388312B0783B72A6BCDF985752E268&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/437" tvg-id="1c227fc9a62cd32ea946c6e0652dc412",SIC K
+http://185.140.53.177:9981/stream/channelid/1233068572?ticket=C5D9AFAA250DB9514D95D0AA3B2D0DCF57FAEAC5&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/493" tvg-id="dc10006a7b9eb6c26d652b20eb3caaa7",Biggs
+http://185.140.53.177:9981/stream/channelid/1778389212?ticket=0E472AE01C6FECFE661BC8FE67C35A7D6AB21858&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/367" tvg-id="7e6200499d9914c2c5ce5b46582980cb",Canal Panda
+http://185.140.53.177:9981/stream/channelid/1224761982?ticket=382929B6E43E3A357608E8A62921AB6DFCB4DD68&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/471" tvg-id="1e383dbe283baa4cd8f95e178873c1fc",Disney Júnior
+http://185.140.53.177:9981/stream/channelid/1044199454?ticket=37E54A6EF742C388E539F21EB798FB0183D6027C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/447" tvg-id="6a4381becc3a146cf7bd5a83f5762626",Jim Jam
+http://185.140.53.177:9981/stream/channelid/1048658794?ticket=314CC726DCF8FFFFC2BF470BF595AFA212060990&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/431" tvg-id="379cead905007ea0360d39e2ca98019b",Baby TV
+http://185.140.53.177:9981/stream/channelid/1508547639?ticket=462E95087381E7AFBCCD2AB2A8C9619E4C0AD321&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/373" tvg-id="f7dbb49544ddf64c65d3e3bc5723924c",Cartoon Network
+http://185.140.53.177:9981/stream/channelid/364174327?ticket=7B040E25E994A6691D6F2C48176132ECDEFDED73&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/411" tvg-id="34bfd2dfdc445c54f21a751a2a30cc18",TV Cine Top
+http://185.140.53.177:9981/stream/channelid/1607647028?ticket=468F60D82BDF70BA62CD876FADD0A61C174A6AA9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/439" tvg-id="37af0896478b056f08d200cbe52cab5d",TV Cine Edition
+http://185.140.53.177:9981/stream/channelid/369667895?ticket=32C909E7E7519FC0B8B8BC806CEB8A72A845FB6B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/409" tvg-id="8d3c4138a4855327971d18b3019d20f8",TV Cine Emotion
+http://185.140.53.177:9981/stream/channelid/943799437?ticket=C292C7BC0B834BA3824D21BF7A5FEDE9B2FB1C54&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/448" tvg-id="63f1ff37225bab02ccaa15be9bfaff9e",TV Cine Action
+http://185.140.53.177:9981/stream/channelid/939520355?ticket=744D2C83018909CF2486D54499634D531AA9D247&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/387" tvg-id="406f9fcb6899806230194a5a3041a1b8",Cinemundo
+http://185.140.53.177:9981/stream/channelid/1268739904?ticket=868B3E75AB6EDC612B3BAF7F2B8C031D14DEEDEF&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/438" tvg-id="82907dc13f4dc0adb612203adf0bc6bc",Hollywood
+http://185.140.53.177:9981/stream/channelid/1098748034?ticket=C8AA96B50D3321E0549B93F1AC04E5CA5EC91A55&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/382" tvg-id="bece7440d8f8a675b1aef1311a4ccd41",Hollywood HD
+http://185.140.53.177:9981/stream/channelid/1081396926?ticket=54D0AD065F05E3E8E97EC2814ADEC55714E19876&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/512" tvg-id="724291c2e56e1ebab7188e7d31d7b708",NOS Studios HD
+http://185.140.53.177:9981/stream/channelid/1116815986?ticket=20F8CDE3A67458658467690151808F4E84D17944&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/500" tvg-id="743609d7ee8b4107d94df31ff42bd159",FOX Movies
+http://185.140.53.177:9981/stream/channelid/1460221556?ticket=87A2E60B8065AD5A09C93971F6ABA7079F717B33&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/388" tvg-id="1e1d31ad191bd0e4e0b3142f7253cd54",AMC
+http://185.140.53.177:9981/stream/channelid/758193438?ticket=B7136ACD8241EBC3F3E8B4204EA944A885023680&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/347" tvg-id="9a0a17833aca0d1212654bc2a19efb52",FOX HD
+http://185.140.53.177:9981/stream/channelid/51841690?ticket=3B585E8FA8F565E76FF1826B403FD568038F5851&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/357" tvg-id="28d2faa6f5cac62f25f0709aadd4067f",FOX Life HD
+http://185.140.53.177:9981/stream/channelid/653972008?ticket=198F51C4E20A2B703859D9269AE8C65B5FB3A41E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/354" tvg-id="212b584ba6fd8d0d8df62df15ddf7856",FOX Crime HD
+http://185.140.53.177:9981/stream/channelid/1264069409?ticket=1C55A39D19CCB3291A1917FD19B5F245CC7CC986&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/375" tvg-id="0eb326e41b75a08daf5ada33b51e49c1",FOX Comedy
+http://185.140.53.177:9981/stream/channelid/1680257806?ticket=8F36FD8D7F7E5791C3551C979739DEB7689404AA&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/360" tvg-id="3b7e8a2a08ac2e7c22c75c3ce2f0caf4",Promo TV Cines
+http://185.140.53.177:9981/stream/channelid/713719355?ticket=2CD260F796DF463D065436E280D4BE8E3B01784D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/346" tvg-id="3ccb9243fea529d9f03d9165658ed68b",AXN HD
+http://185.140.53.177:9981/stream/channelid/1133693756?ticket=E6B50293F4517BFCBA283CAC149618DBE805D34D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/352" tvg-id="f1aca317c027637e29270741c421c6e0",AXN Movies HD
+http://185.140.53.177:9981/stream/channelid/396602609?ticket=E45E16F858EAC8AF963EFF486EE9968FD3F82833&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/353" tvg-id="5edee9a47be8fcee93d56dc223933fb3",AXN White HD
+http://185.140.53.177:9981/stream/channelid/619306590?ticket=006B393B314BA0B62310018D0F583E00338C4658&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/550" tvg-id="b7f9ef339c4329df76b99e14b34bfd05",SYFY
+http://185.140.53.177:9981/stream/channelid/871365047?ticket=0A9839C9A4C3316A6E34D45E5FD18200313A782D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/377" tvg-id="5b45c5e13059ec6d3b8b55bce5a31e5d",E! Entertainment
+http://185.140.53.177:9981/stream/channelid/1640318299?ticket=0234D76D38EB776459CAEF9D28A774B3EBD1086F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/495" tvg-id="5761b92ad10ba2ac4a290c43e77f5675",Blaze
+http://185.140.53.177:9981/stream/channelid/716792151?ticket=9BBE2BBFE720ACFE51CAC31231FCCA3168D9EA38&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/363" tvg-id="8865faa8bf1cb7e10ee60d07efffe7af",CBS Reality
+http://185.140.53.177:9981/stream/channelid/687498632?ticket=6040E825F629D0D17B66E06FED229C91A77BFBB7&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/492" tvg-id="cce3f140a18b52ca6099cff4f530b601",TLC
+http://185.140.53.177:9981/stream/channelid/1089594316?ticket=136E02A80DFAFC4774739DB3086C62E9DCC9109E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/378" tvg-id="575da62f07c3d90fd1b62b4218d02aa0",FTV
+http://185.140.53.177:9981/stream/channelid/799432023?ticket=B87D5EFD8C2EB2F4E96AF83FE04A268995D019F1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/355" tvg-id="ac46ac2d4fb2d666599d39520c510d7b",Travel Channel HD
+http://185.140.53.177:9981/stream/channelid/766265004?ticket=165364554B4F7A8E7FF701EEB7D2953412B77E19&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/397" tvg-id="b48c03c05f888753c78c0289f2163579",Discovery Channel
+http://185.140.53.177:9981/stream/channelid/1073974452?ticket=D5880007084443AAFC4F906719C7B5A735DF901C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/408" tvg-id="bf8e6a80e72ce2c380bf21a9459adc09",Odisseia
+http://185.140.53.177:9981/stream/channelid/6983359?ticket=852300486D3ED16F99DB33F11926C199E5675E53&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/430" tvg-id="258bafc21482895fdbfa2deb98ccaa01",História
+http://185.140.53.177:9981/stream/channelid/1118800677?ticket=F9289B9759FFAF04BA8E114EF80FEE23DB082844&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/350" tvg-id="14ff880b3d46956d2b5e0f21ebe49bc1",National Geographic HD
+http://185.140.53.177:9981/stream/channelid/193527572?ticket=9521F9BF4DD0EBECA6FB40E4ADA7F2C7325FB6FC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/313" tvg-id="a1d2c40a825bc3170f5a18d501317423",National Geographic WILD
+http://185.140.53.177:9981/stream/channelid/180671137?ticket=036F7994136EB9892A0E2CCC4AD847DEA93FAD59&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/364" tvg-id="f71e167e3f9c6394cdad5454b4326ce5",Afro Music
+http://185.140.53.177:9981/stream/channelid/2115378935?ticket=2B7EF848FDEFD2726D9F9911ED6288B52C18EE60&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/445" tvg-id="def75071c98e57555fa0af9d17ced508",MTV Portugal
+http://185.140.53.177:9981/stream/channelid/1901131742?ticket=8B28FA73B8DC079A1A704D7960638945CF845664&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/451" tvg-id="9adde711202a47da92def1d2dd1bc177",VH1
+http://185.140.53.177:9981/stream/channelid/300408218?ticket=0C42E5508617FB929AE51C40966B1BDF433CED8F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/413" tvg-id="fb5328b479a3f63cdde21d03201385fd",Trace Urban
+http://185.140.53.177:9981/stream/channelid/875058171?ticket=ACDE68E8BA2C7AEEAE039F0EBC39DE6525CE3893&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/402" tvg-id="115d646a4ae0861d178cad5352cf08df",MCM POP
+http://185.140.53.177:9981/stream/channelid/1784962321?ticket=B9118CA247D305C07309B9FCAC20251770C4A10A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/452" tvg-id="662d8af888b037db3fc668e68007a194",Mezzo
+http://185.140.53.177:9981/stream/channelid/2022321510?ticket=EFACFB71EC9A3A58FB27A2A53CAB9735A414B94A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/358" tvg-id="ac4d705f2e00e6b496fec70a6a57a1a8",24 Kitchen HD
+http://185.140.53.177:9981/stream/channelid/1601195436?ticket=A5A5E695CEB8AF17D332968E90C3D944FDE0DE00&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/386" tvg-id="6cb2d7752d8fa70125ea1afc3dbe98a3",Globo
+http://185.140.53.177:9981/stream/channelid/1977070188?ticket=1633315535FEEEE614316E313DB4E779CAB31889&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/394" tvg-id="6c2436ac8cad21a08c233bb272ad918f",Globo Now
+http://185.140.53.177:9981/stream/channelid/741745772?ticket=5F68E37552BDDF168666843F21B1650CBD065D2C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/361" tvg-id="d8c15f4f005a7fb20a3994a6949b3830",Channel 1 Russia
+http://185.140.53.177:9981/stream/channelid/1331675608?ticket=B7C16EBFCB3AFD9CCE59554003EB732EFF28B815&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/399" tvg-id="0f51c358fd2ae0eac8ccbc906942ea5c",Kombat Sport
+http://185.140.53.177:9981/stream/channelid/1489195279?ticket=7B2D54E0F4380A43409D0DBB21DAF35ECFCF9A26&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/348" tvg-id="1d7bc935721fcd9e2e7d120877e7caef",Caçavision
+http://185.140.53.177:9981/stream/channelid/902396701?ticket=862CAD7A2B88A53D431D40219BF8C72FA310AF13&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/457" tvg-id="21496bf505a05bc9231f9edd3a73beca",Toros TV
+http://185.140.53.177:9981/stream/channelid/1969965345?ticket=E578C5B58486705E317AF5942D54C5617E8361B1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/393" tvg-id="22042c0f2c2d6eb5c6da4f3e1d44b1f7",PFC
+http://185.140.53.177:9981/stream/channelid/254542882?ticket=BBE4B5D57755E9ECA3890774512FE43EAF45908D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/381" tvg-id="07a31ed6ecab3a8f20829efea42e8571",TV Record
+http://185.140.53.177:9981/stream/channelid/1444848391?ticket=8677EB3AA58C1360F34EB5811F44ADF2B831E7EB&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/459" tvg-id="191ad14abe4ec204f12748086360e12f",TSA-Record TV HD
+http://185.140.53.177:9981/stream/channelid/1255217689?ticket=321AD16E3255076C8A98180B0929AC06E4AEAA96&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/460" tvg-id="a29c42fe5bddf2917c4559f8c51c35fe",TSA-Record News
+http://185.140.53.177:9981/stream/channelid/2118294690?ticket=61B74D258672CEBCA973552918FF787EC6F662E3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/404" tvg-id="def22c3250ea9d0c9deb4ea9b23052ee",Canção Nova
+http://185.140.53.177:9981/stream/channelid/841806558?ticket=266D88D53DF3514A3DCB89E0DDFD17552CBA5A4A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/479" tvg-id="b8e53c4f4fa59db1a11a13a40443be98",Kuriakos TV
+http://185.140.53.177:9981/stream/channelid/1329391032?ticket=3440A49749517DF8B4353C5B6FC20B05A44220D6&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/384" tvg-id="6732620449ba7d5a0f835c1cfa6224c8",RTP Açores
+http://185.140.53.177:9981/stream/channelid/73544295?ticket=C2ABFB28A662B0021271EBCE1DF7D5C3D2514CAC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/383" tvg-id="6609b4874876689cd8363623f224b449",RTP Madeira
+http://185.140.53.177:9981/stream/channelid/129239398?ticket=B69DCEFCE9F97CF9D598CFA647FF7216B6E2B48C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/455" tvg-id="0ce59afe179c00e5552d32a4bd59242b",Euronews
+http://185.140.53.177:9981/stream/channelid/2124080396?ticket=96EAA54EF6502555B6E14A6A9B10B57BD4DAB206&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/502" tvg-id="a0f6983183afcda2dbd785cb65be4bde",CNN
+http://185.140.53.177:9981/stream/channelid/832108192?ticket=F577CB5E57C4F1DFE8AA54F97966DD7A895AD40B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/503" tvg-id="da5b6a342ffcaaad841a85e4dcb55731",SKY News
+http://185.140.53.177:9981/stream/channelid/879385562?ticket=A0E5C5BF6ECF7349A923BA14DAA281AA00F1B064&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/338" tvg-id="0dbadc9381b4641b2b5fd7c6c607641d",FOX News
+http://185.140.53.177:9981/stream/channelid/333232653?ticket=3B6B15BD1A1C84732E5325C9C82E45D05A2FF5C1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/484" tvg-id="49e824e9829e6427cee562d5078f2969",BBC World News
+http://185.140.53.177:9981/stream/channelid/1764026441?ticket=D35B34D9F11778A0961D293E6EB945B0FAD18BBB&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/537" tvg-id="183278fa206cf31b73df5bf168df078b",RT Esp HD
+http://185.140.53.177:9981/stream/channelid/2054697496?ticket=90DDE1D2BB6672362AEBA7D63A5A2EDBB0CD6A45&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/516" tvg-id="0ab64b693b36e6278c2af30e353b140e",AJE
+http://185.140.53.177:9981/stream/channelid/1766569482?ticket=F3B376F7528220ED186194ACA06A5D6DEDA7B1A6&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/515" tvg-id="1873862cfa1693458d305e8ff847223a",NHK World Japan
+http://185.140.53.177:9981/stream/channelid/747008792?ticket=78E9A1AC06D12FF652052E072CF336A834CEDCE8&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/414" tvg-id="63c242e62464aad0f8c801e8293dfedd",Deutsche Welle (A)
+http://185.140.53.177:9981/stream/channelid/1715651171?ticket=0B8BF3752BC3296C31A94278B978C4A86B9B088A&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/390" tvg-id="5f52860e2faf273e7d38e4455bd16ae4",CNBC Europe
+http://185.140.53.177:9981/stream/channelid/243683935?ticket=0C86610738528F5787EA9DB1168A19AE25069833&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/389" tvg-id="6629d9c002ceded9ac190a07f11e45f1",Bloomberg
+http://185.140.53.177:9981/stream/channelid/1087973734?ticket=A8B3827836B8727672D604D6BEB059443CAA174B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/392" tvg-id="ed428d6fd9bb0a2033eb137d633c278b",TV Galicia
+http://185.140.53.177:9981/stream/channelid/1871528685?ticket=97F328BBDB6E96993BDD52F869D03F6552A2E5C7&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/453" tvg-id="6f21d158c72691cae7cd0ad4d56b0107",TVEi
+http://185.140.53.177:9981/stream/channelid/1490100591?ticket=570C3DD7845ED293865BF6ADD30810938BFAC160&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/454" tvg-id="ba1c6d295be18263f00e434a8f6b90b7",TVE 24H
+http://185.140.53.177:9981/stream/channelid/695016634?ticket=C62E3FE6A2CD4D927A677F089E4306DB78BE941C&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/289" tvg-id="0ae36af615ce43d93d6deb177c57f446",CUBAVISION INTERNACIONAL
+http://185.140.53.177:9981/stream/channelid/1986716426?ticket=A29228556AF91A7C9B1E841A921E00764BB7D2FC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/533" tvg-id="551d30c6a7ff7fb69086b25fa4b5e688",Telesur
+http://185.140.53.177:9981/stream/channelid/1177558357?ticket=2CDF8966566999FEBE6F4E762410F2105D32CCF0&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/436" tvg-id="6304ad188ff276c2fb6f9e24e947676e",ARTV
+http://185.140.53.177:9981/stream/channelid/413992035?ticket=14ED0C596CCE6A83678158C8B859A7FCB8D2C5E5&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/379" tvg-id="79e0c58c15be9cdee580327ef505bbe9",RTP África
+http://185.140.53.177:9981/stream/channelid/214294649?ticket=608D56135998C8F1C4F68553B3155EE1648C54D2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/490" tvg-id="c327fb2c8bcb7da931fc3afbd7395fa5",TV5 Monde
+http://185.140.53.177:9981/stream/channelid/754657219?ticket=C261C3A1EF9CAB049D06CEE4FD7AAB140F87EF8E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/400" tvg-id="bfd2edb6a7f77f557bed2797fa596929",Playboy TV
+http://185.140.53.177:9981/stream/channelid/921555647?ticket=6B45D2C6059F3623A60AC12912FB83D49632069F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/466" tvg-id="dafba80747d9645cf8c16c6351e95534",HOT
+http://185.140.53.177:9981/stream/channelid/128515034?ticket=6C7B4F22B1648454729825F1C7A942DB19C01537&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/560" tvg-id="776e8707161fa3ecdf03aaeba86119cd",Smooth FM
+http://185.140.53.177:9981/stream/channelid/126316151?ticket=0F692A89607F0267200E623E8E95D020C01CF0EE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/544" tvg-id="43306a8f15f5338bf1ecfb6342540e5e",Rádio Lusitânia
+http://185.140.53.177:9981/stream/channelid/258617411?ticket=CA6F5B730A20D396A5E517F318F333BD48FD3936&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/527" tvg-id="6201d5917a753fb2e03ee055931a9f1a",esRadio
+http://185.140.53.177:9981/stream/channelid/299172194?ticket=EF1474C688748A2440B5D67BEB78C9F4FA24C733&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/551" tvg-id="2fd3a393fc954d53ab8ca3d34ab6748c",M80
+http://185.140.53.177:9981/stream/channelid/329503535?ticket=A8B3A0F1068692C16F7147E5F8D9905A26435C70&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/576" tvg-id="5e32641c794ef49b344d513f5cc542e8",FM TERUEL
+http://185.140.53.177:9981/stream/channelid/476328542?ticket=45DA68FDB02590E2DB5AEE27894F923F72B8CB11&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/556" tvg-id="9ffc481ef99cbf6e6151940a154db143",INTERECONOMIA
+http://185.140.53.177:9981/stream/channelid/508099743?ticket=0E8BBB49E122A53895E18B769F0C20394E5A5D75&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/552" tvg-id="0b301c9fbd9cd28db1da9b2ee10e0db8",FM ZARAGOZA
+http://185.140.53.177:9981/stream/channelid/521941003?ticket=7CDA36F8E77F7DAE376B9DC1BAA05853BBCCE1FC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/570" tvg-id="16733c9f258dc1a253daa20c6be2286e",NAIZ irratia
+http://185.140.53.177:9981/stream/channelid/524055318?ticket=4FF43AD0BC31C31977B786AD792A256281458C78&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/555" tvg-id="2bcd3da000bf4442d363ca44a5c2de5d",Cidade FM
+http://185.140.53.177:9981/stream/channelid/540921131?ticket=5764CE07576D3A006BAEC5AAC179810883014F84&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/573" tvg-id="30a37ea0728eee0c77c0968614ed2ef4",Rádio Renascença
+http://185.140.53.177:9981/stream/channelid/545170224?ticket=6DF34D5C2D5029CB69544C262E0C47A3B9023A36&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/574" tvg-id="ad01fb2055d33a0f555b39c9bec6cf4a",SuperFM
+http://185.140.53.177:9981/stream/channelid/553320877?ticket=FCA42393E5602241EE5FCE98D0C240C90FF9EB58&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/557" tvg-id="038e6ca2bba1f3e425605a76dd3a284b",COPE SAT 2
+http://185.140.53.177:9981/stream/channelid/577539587?ticket=3B1DE32D9960D8D1072C6E937C3E4BB6C8344E63&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/566" tvg-id="fe8b96259ac590c1230747faa090bfee",Onda Melodia
+http://185.140.53.177:9981/stream/channelid/630623230?ticket=28D3E8D843C34FFFF0170421AF9DB8E6E73614C2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/518" tvg-id="bfaab0b338832dbea7024da848837e28",RADIO MARIA
+http://185.140.53.177:9981/stream/channelid/867216063?ticket=C83ED08A7F82C79D3EA435277566543EF3D9A5B3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/528" tvg-id="fcd00ea8b01e208f8d785bdd6bbde98a",Antena 1
+http://185.140.53.177:9981/stream/channelid/672059644?ticket=A6259BF427CFA2BE16CAD19B5EE285E5DA8596D2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/522" tvg-id="5e7597a89929ef960c312168eb1dbeb5",Rádio Regional
+http://185.140.53.177:9981/stream/channelid/681014622?ticket=A7F94B6751460D785E87E5E325B2FD02BF555438&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/520" tvg-id="6e0d16a9e84ec675742b8795cacacd9c",ROCK FM
+http://185.140.53.177:9981/stream/channelid/689311086?ticket=4CFCCDCF503C114218F713DDF60BA7E55844A6DC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/472" tvg-id="ba59b02c30c8bf9422b360e5d5dd1e37",Parlamento
+http://185.140.53.177:9981/stream/channelid/749754810?ticket=CA2B9E22B4E5E9CE3A05FE4D0B224F018B152AD4&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/567" tvg-id="08dc1f2dba3d0aee4ca4e22f5bb12c0d",Antena 2
+http://185.140.53.177:9981/stream/channelid/757062664?ticket=8DDEEFD34E8E1EC21494BD6E92DA8D08611BFFD1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/575" tvg-id="8645482d752cb440256e3a69535e381a",Europa FM
+http://185.140.53.177:9981/stream/channelid/759711110?ticket=4E64AA4D04F091388828F1AEE30CC5CEE9755810&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/524" tvg-id="7cc764b19263c88b40a858f3d5814865",Rádio Comercial
+http://185.140.53.177:9981/stream/channelid/828688252?ticket=FD9D7AE6B583ACC1FE61667CA3064DA7650669BE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/554" tvg-id="41f37ab4da04caad3c7177a311fab0c4",FM HUESCA
+http://185.140.53.177:9981/stream/channelid/880472897?ticket=D673A14BC332CAE1FFC1837F209B351747ECF94F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/559" tvg-id="5804d9b562faf2edc95ed0497b51bc42",Rádio Amalia
+http://185.140.53.177:9981/stream/channelid/903414872?ticket=6D9B89C48C9A121AD6AF66CAA5F8FEACA9837ECE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/536" tvg-id="5edaf2385237450d85e4c077ce410fbe",FM ZARAGOZA
+http://185.140.53.177:9981/stream/channelid/955439710?ticket=4A3639709A72AC6EA1BF6417773291CC0CD44295&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/530" tvg-id="dfed2e3c68d8ddb3ecb083aca520b1b9",Onda Melodia
+http://185.140.53.177:9981/stream/channelid/1009708511?ticket=43899B4040FF12AEBAE84A28178F062039E3040B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/542" tvg-id="2cd3dc408abb2d981f5684c01572d7ee",COPE
+http://185.140.53.177:9981/stream/channelid/1088213804?ticket=2DB28DC1AA4C01DB51DCDB432B105FBBBC19E16B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/541" tvg-id="260599c3854c452535766db591755c21",ROCK FM
+http://185.140.53.177:9981/stream/channelid/1134101798?ticket=1F1D9F338FF5A40C00BA260CFC91B43DF8BB6B34&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/519" tvg-id="f291f6c588a4d2a8a40038142055ce20",Marginal
+http://185.140.53.177:9981/stream/channelid/1173787122?ticket=3D20D4B9DC723FD74BE673CF0778A99CF8267FB1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/564" tvg-id="69933146d4c249b243910c5b0d4ba187",HIT FM
+http://185.140.53.177:9981/stream/channelid/1177654121?ticket=BA4CCE4F41F22F9E8BD63911863B650458BEF723&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/521" tvg-id="dbaa2647f59d59c1982a53c0a41b67c0",Mega Hits
+http://185.140.53.177:9981/stream/channelid/1193716443?ticket=2AA0996BB71DB4149B00C01C00AC8B19FD1DD560&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/572" tvg-id="be29ab475b9256b3aee8b3a9a9ca7272",Cadena 100
+http://185.140.53.177:9981/stream/channelid/1202399678?ticket=BBE75AC8F787600DA2998ACC28AE4DD8DDA69138&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/532" tvg-id="9e3803c8fd1ee715f4c4bfd1c232a562",COPE SAT 2
+http://185.140.53.177:9981/stream/channelid/1208170654?ticket=8C66A4738263B17E92A280E18FF45EEE8B2012A7&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/579" tvg-id="d4d632c876eb6acc2211e9abd37550f2",FM TERUEL
+http://185.140.53.177:9981/stream/channelid/1211291348?ticket=FB399B26CD98E983ED83049928148076C823C133&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/570" tvg-id="a4ba16c98f5a11c10e9098f4050acf74",NAIZ irratia
+http://185.140.53.177:9981/stream/channelid/1226226340?ticket=8613E8B976980D0E1BDABB94912A2C66526F580B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/561" tvg-id="807d244a3a9d43f599ddc18a43248451",Europa FM
+http://185.140.53.177:9981/stream/channelid/1243905408?ticket=8177EEEFCDA8787227AFD22BD6F9D786DBEF2D58&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/543" tvg-id="cf7dcacaa9c7855b7124e72e74019ed5",COPE
+http://185.140.53.177:9981/stream/channelid/1254784463?ticket=EC7E5EFB6125E245BEF8CABACED8A33CB78A699D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/558" tvg-id="77e4024c409b53a186dc1df2a5a21192",HIT FM
+http://185.140.53.177:9981/stream/channelid/1275257975?ticket=67B6571B5B643B450FA5C88497EB78DD1DA79ACE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/548" tvg-id="9ae26750d6222a8d365e8ea571deefaa",Antena 3
+http://185.140.53.177:9981/stream/channelid/1348985498?ticket=E4C501F8ED77DAF516E980EA2D3DB334533F7DF4&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/568" tvg-id="057032545a8f03e7fb7e23d1daf5b119",RFM
+http://185.140.53.177:9981/stream/channelid/1412591621?ticket=EC12F9C494EB5251EA047411E86F78D1A13AAD4D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/529" tvg-id="a6a3a9d77388ff9dbab08ee146f878a2",esRadio
+http://185.140.53.177:9981/stream/channelid/1470735270?ticket=6BAEB47909C30D04890AF25CB9B2907985BB6EB9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/577" tvg-id="e9ea4dd8b90f6b43a1def0a10836b3a6",Kiss FM
+http://185.140.53.177:9981/stream/channelid/1481501417?ticket=CDC1BD88547923C682BD12E10BBF137242F1E640&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/540" tvg-id="3fde69d9436fbf5d0077d17c6ba65e24",EXTREMADURA FM
+http://185.140.53.177:9981/stream/channelid/1500110399?ticket=238DE69E4AB6E5351D8AEF406D17818D1198414D&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/553" tvg-id="1acfb2d9c5fb75b356f5d96be8ffb75c",TSF
+http://185.140.53.177:9981/stream/channelid/1504890650?ticket=DB23CECD36012B97B6ED76EC8BAB6F232F5D3B71&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/523" tvg-id="524180dac3b6801a7cd143d248492238",RADIO MARIA
+http://185.140.53.177:9981/stream/channelid/1518354770?ticket=0AC1E7D620CE39F24458F29CB07AB06AA605618E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/569" tvg-id="2a8eb85acd0dd58729f00105c8079f0e",EXTREMADURA FM
+http://185.140.53.177:9981/stream/channelid/1522044458?ticket=C041ECD0A77B7E7E5C6FAA2CB4D111143C14BB2F&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/546" tvg-id="bc68145cd67bf9f08c07d2846a97032c",MegaStar
+http://185.140.53.177:9981/stream/channelid/1544841404?ticket=D863A7F5ED7502D18C5B65C45A7078140C73014E&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/571" tvg-id="b29f7a5e6d7deba88e3ce661c897162f",Cadena 100
+http://185.140.53.177:9981/stream/channelid/1585094578?ticket=E0695B4010973ECC39ACF2C08FC9799B27C6D658&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/563" tvg-id="f5e841e04641a43abf51252f00836c63",FM HUESCA
+http://185.140.53.177:9981/stream/channelid/1614932213?ticket=51F97FAF84A0B34E22873A741E62609ECA1671A3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/539" tvg-id="cf6702ef826fcc43540cb61bb45eaff7",MegaStar
+http://185.140.53.177:9981/stream/channelid/1862428623?ticket=CDDFD1095D75C2DA06E3FCCC8F0DD1BE78BD4F27&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/538" tvg-id="79e534efa819d96258f7f8b8d83f26a0",Oxigénio
+http://185.140.53.177:9981/stream/channelid/1865737593?ticket=32866C4A4D9201C0CCD99A38F5897763CEC6BB89&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/565" tvg-id="41767ff0a386a6373b0929ab6543cfa4",Kiss FM
+http://185.140.53.177:9981/stream/channelid/1887401537?ticket=6E24AE646CC3253577E214D25F629100990294FC&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/547" tvg-id="dbf70d72e8582197041ee3ca6cb83124",Onda Cero
+http://185.140.53.177:9981/stream/channelid/1913518043?ticket=3A1D7B816282D46DE2273C72E3D6DD63664DD17B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/562" tvg-id="d149c3747d3288c433b7830d39199640",Onda Cero
+http://185.140.53.177:9981/stream/channelid/1958955473?ticket=57037F2FD648C4DC6A559D772D110DDB764F551B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/435" tvg-id="b2ecad036ab0bd8e0c79ab61cd6f92d1",RFM
+http://185.140.53.177:9981/stream/channelid/61729970?ticket=71406272C764DF9B9953361010753B9A22E5FACD&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/339" tvg-id="0e5855c73a2d83d2085195f33cdbf887",Renascença
+http://185.140.53.177:9981/stream/channelid/1196775438?ticket=B16747C9EB19B3AE46BFA60D68A7E948244B20C9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/442" tvg-id="d67f59ccc9fb9a521e62dd7b09dfb48c",Mega Hits
+http://185.140.53.177:9981/stream/channelid/1280933846?ticket=27A42C5502C9B67570DE4BFD6BD541475D8D5AD9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/441" tvg-id="990c08878acb765293249d02479b25e1",80s RFM
+http://185.140.53.177:9981/stream/channelid/117968025?ticket=F7913D214441220FA9A22155325D6588B38EF724&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/440" tvg-id="6d07ee8a77e977f10e29c57a259be18c",RFM Clubbing
+http://185.140.53.177:9981/stream/channelid/183371629?ticket=EF66D3C836C69D9104F6C9E30243592C0D796C00&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/444" tvg-id="27dd4659d7626a7ab9136b85a12f872d",Oceano Pacífico
+http://185.140.53.177:9981/stream/channelid/1497816359?ticket=0F4517870CD1FA26A5E94E35E036D788FB3684AD&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/340" tvg-id="1d00080be6e52ecca0ef218d760ce548",Rádio Comercial
+http://185.140.53.177:9981/stream/channelid/185073693?ticket=04EE04C840BF6632EC63A395F4033121B06C4FB3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/341" tvg-id="fb5fdee6e0fc24c857768f92a39b68db",M80
+http://185.140.53.177:9981/stream/channelid/1725849595?ticket=4C5B24441049AC6A24E5D160F1A1D82A8B386848&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/342" tvg-id="26f8cb2e0d8ee1a95b7b62ad9f903d60",Cidade FM
+http://185.140.53.177:9981/stream/channelid/785119270?ticket=151D02C7CC789D93041B459C3259C58CD9DF06F9&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/549" tvg-id="32b436341fd29db7541a905d3da0372b",Smooth FM
+http://185.140.53.177:9981/stream/channelid/876000306?ticket=49FFBAC8E6ACD510EB5AFD697220B3E65C4D4FC2&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/417" tvg-id="a990b95437c3ab295462323e278ed68c",Antena 1
+http://185.140.53.177:9981/stream/channelid/1421447337?ticket=3B8C4951DBEB7C21FB7E58760A981D29C954538B&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/422" tvg-id="44016a68fe5b3be1dae480d2ef639ab5",Antena 2
+http://185.140.53.177:9981/stream/channelid/1751777604?ticket=E2AAC1F0C7AEDE7EEEAA435A14CB02BCF31E9361&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/426" tvg-id="aa2ce896eff443d82e5029017161a823",Antena 3
+http://185.140.53.177:9981/stream/channelid/384314538?ticket=750ADC324F84F3970D49E19EEE8177D30046C8DE&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/423" tvg-id="309d8a8551cd34122b8efcde98a09352",RDP África
+http://185.140.53.177:9981/stream/channelid/92970288?ticket=125569E0180E6C896B8B1DAF907113B7A16B7163&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/425" tvg-id="9eaf284bd394da7f25bf4e4bd03aff1e",Lusitânia
+http://185.140.53.177:9981/stream/channelid/1260957598?ticket=E5D8FA3B2CF7130079C221DF9714B894FEE9DBE1&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/433" tvg-id="406a5df7e7aef03389e384cb17a5fd21",Antena 1 - Fado
+http://185.140.53.177:9981/stream/channelid/2002610752?ticket=EEF43DD01C99C720793CCAEF02BB84C0194122D4&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/424" tvg-id="9409d5798da5dff6bd47f62a66327353",Antena 2 - Ópera
+http://185.140.53.177:9981/stream/channelid/2044004756?ticket=D82625AE4C840AB025E12E7F9711DCB232F80025&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/434" tvg-id="bf50c35f0f0f91c0849ed7366d12d5cc",Antena 1 Vida
+http://185.140.53.177:9981/stream/channelid/1606635711?ticket=B1A4C0E1845D71837349232304D58B97012207F3&profile=pass
+#EXTINF:-1 logo="http://185.140.53.177:9981/imagecache/432" tvg-id="c3733be1e3f90232659ab4048df38079",Antena 1 Memória
+http://185.140.53.177:9981/stream/channelid/1631286211?ticket=622F7243DFDB343956ADCC904B70C6D4A5BA9DEE&profile=pass

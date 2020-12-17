@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,APPS-FRAMETV
+http://195.154.252.221:8000/play/a002/index.m3u8
+#EXTINF:-1,ARTMEDIA
+http://195.154.252.221:8000/play/artmediaweb/index.m3u8

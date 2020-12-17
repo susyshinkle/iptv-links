@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Еврокино
+http://176.115.152.6:4000/play/a00a/index.m3u8
+#EXTINF:-1,Уникум
+http://176.115.152.6:4000/play/a00d/index.m3u8
+#EXTINF:-1,Шансон
+http://176.115.152.6:4000/play/a008/index.m3u8
+#EXTINF:-1,Русский Иллюзион
+http://176.115.152.6:4000/play/a00c/index.m3u8
+#EXTINF:-1,Известия
+http://176.115.152.6:4000/play/a003/index.m3u8
+#EXTINF:-1,Sony Turbo
+http://176.115.152.6:4000/play/a005/index.m3u8
+#EXTINF:-1,Зоопарк
+http://176.115.152.6:4000/play/a006/index.m3u8
+#EXTINF:-1,Иллюзион +
+http://176.115.152.6:4000/play/a00b/index.m3u8
+#EXTINF:-1,Телеканал 360
+http://176.115.152.6:4000/play/a007/index.m3u8
+#EXTINF:-1,Девятка
+http://176.115.152.6:4000/play/a009/index.m3u8

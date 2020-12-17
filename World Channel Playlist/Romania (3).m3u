@@ -1,0 +1,107 @@
+#EXTM3U
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/kiwi-tv.png" tvg-id="ade376a69d092b420951ed42838b94a1",{name-not-set}
+http://80.85.55.43:9981/stream/channelid/645325741?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/lichi-tv.png" tvg-id="0160ef2b854fd638ce857701b9568d8e",{name-not-set}
+http://80.85.55.43:9981/stream/channelid/737107969?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/amc.png" tvg-id="934b7ba26b7acbb5e8e89769369c0b69" tvg-chno="1001",AMC 
+http://80.85.55.43:9981/stream/channelid/578505619?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/tv2-hd.png" tvg-id="347dd64adda2e8d56efaf86444207d08" tvg-chno="1001",TV2 
+http://80.85.55.43:9981/stream/channelid/1255570740?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/film.png" tvg-id="b599bf174ed89b2cb17a7db7d7b5eb14" tvg-chno="1003",Film+ 
+http://80.85.55.43:9981/stream/channelid/398432693?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/mozi.png" tvg-id="ffbc2fdd94bd5d6e1046f8581a7f9cdb" tvg-chno="1004",Mozi+ 
+http://80.85.55.43:9981/stream/channelid/1563409663?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/cool-tv.png" tvg-id="22a10d6af23452d793bbe2c3a10ecdb5" tvg-chno="1005",Cool TV 
+http://80.85.55.43:9981/stream/channelid/1779278114?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/supertv2.png" tvg-id="5b93fd67175e2cd1c01f7c0ed3c928de" tvg-chno="1006",SuperTV2 
+http://80.85.55.43:9981/stream/channelid/1744671579?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/paramount-channel.png" tvg-id="3d4b9d0460f8b0d51626e1682a36b382" tvg-chno="1007",Paramount Channel 
+http://80.85.55.43:9981/stream/channelid/77417277?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/rtl.png" tvg-id="ae5d91605d608a101febe2aa919a724e" tvg-chno="1008",RTL+ 
+http://80.85.55.43:9981/stream/channelid/1620139438?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/rtl-spike.png" tvg-id="ed3c244daa8bb5755886498659727c43" tvg-chno="1009",RTL Spike 
+http://80.85.55.43:9981/stream/channelid/1294220525?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/rtl-gold.png" tvg-id="991288a13bdf20fe0606833430e1cb3b" tvg-chno="1010",RTL Gold 
+http://80.85.55.43:9981/stream/channelid/562565785?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/rtlii.png" tvg-id="9e0e6e6cde8ce2b53d8875285d71a6cd" tvg-chno="1011",RTLII 
+http://80.85.55.43:9981/stream/channelid/1819152030?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/fem3.png" tvg-id="7021fff8f6abeffd47486bf76c751210" tvg-chno="1012",FEM3 
+http://80.85.55.43:9981/stream/channelid/2029986160?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/tv2-comedy.png" tvg-id="dcb4a780e4b9dd8c4f6bfa906d9d69b3" tvg-chno="1013",TV2 Comedy 
+http://80.85.55.43:9981/stream/channelid/10990812?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/comedy-central.png" tvg-id="3b8ffddd74adcf822f974fb67b7e473e" tvg-chno="1014",Comedy Central 
+http://80.85.55.43:9981/stream/channelid/1576898363?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/prime.png" tvg-id="c580b455a23e490670afce7323beefe8" tvg-chno="1015",PRIME 
+http://80.85.55.43:9981/stream/channelid/1437892805?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/sorozat.png" tvg-id="a860a1d62cf1ca8fb067d0f031511cc0" tvg-chno="1016",Sorozat+ 
+http://80.85.55.43:9981/stream/channelid/1453416616?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/izaura.png" tvg-id="76fd90af4736de3cb209d4a0fd0cc075" tvg-chno="1017",Izaura 
+http://80.85.55.43:9981/stream/channelid/798031222?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/m1-hd.png" tvg-id="1cb332e1e236e13aa13d336762af7f6f" tvg-chno="1018",M1 
+http://80.85.55.43:9981/stream/channelid/1630712604?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/m2-hd.png" tvg-id="fef702d4501112462f68d63f9b7bbd79" tvg-chno="1019",M2 
+http://80.85.55.43:9981/stream/channelid/1409480702?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/m5-hd.png" tvg-id="8307a044d9c001f464e661b066f6c4c2" tvg-chno="1020",M5 
+http://80.85.55.43:9981/stream/channelid/1151338371?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/duna-hd.png" tvg-id="a49161f39acac332a0324952d235cab3" tvg-chno="1021",Duna 
+http://80.85.55.43:9981/stream/channelid/1935774116?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/duna-world-hd.png" tvg-id="ebd0f1088555c10769193ff7e2fefa1d" tvg-chno="1022",Duna World 
+http://80.85.55.43:9981/stream/channelid/150065387?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/m4-sport-hd.png" tvg-id="2cc70781dd9ebd07bf7ead62eca96bb5" tvg-chno="1023",M4 Sport 
+http://80.85.55.43:9981/stream/channelid/17286956?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/digi-sport-1-hd.png" tvg-id="7adf8f27582c5c4175a958cb48b928b5" tvg-chno="1024",DIGI Sport 1 
+http://80.85.55.43:9981/stream/channelid/663740282?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/digi-sport-2-hd.png" tvg-id="a3d90606ffa4df2435a95c344b1167ec" tvg-chno="1025",DIGI Sport 2 
+http://80.85.55.43:9981/stream/channelid/101112227?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/digi-sport-3-hd.png" tvg-id="4aa751e72a57aaf2f0d9a697e46c1f7d" tvg-chno="1026",DIGI Sport 3 
+http://80.85.55.43:9981/stream/channelid/1733404490?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/sport1.png" tvg-id="d92fea59967856bbc2f3a5f29d78f256" tvg-chno="1027",SPORT1 
+http://80.85.55.43:9981/stream/channelid/1508519897?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/sport2.png" tvg-id="15e76a5fa94304d4a3574bdc437f4c64" tvg-chno="1028",SPORT2 
+http://80.85.55.43:9981/stream/channelid/1600841493?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/eurosport-hd.png" tvg-id="2c88988e67e7e9aa92f986d4ccc495d8" tvg-chno="1029",Eurosport 
+http://80.85.55.43:9981/stream/channelid/244877356?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/eurosport-2-hd.png" tvg-id="f3917d9a22fee0c53ea69e0a0d15478a" tvg-chno="1030",Eurosport 2 
+http://80.85.55.43:9981/stream/channelid/444436979?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/slager-tv.jpg" tvg-id="6dc31aa59b6d52ad03bf7f6620755d71" tvg-chno="1031",Sláger TV 
+http://80.85.55.43:9981/stream/channelid/622510957?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/muzsika-tv.png" tvg-id="2557065ceb5086a0fb7563c6f8963bcc" tvg-chno="1032",Muzsika TV 
+http://80.85.55.43:9981/stream/channelid/1543919397?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/zenebutik.png" tvg-id="3dcf28d21106a8b34bf73af9f5389adb" tvg-chno="1033",Zenebutik 
+http://80.85.55.43:9981/stream/channelid/1378406205?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/music-channel.png" tvg-id="f8a35246ea93b5770c760840d9547d93" tvg-chno="1034",Music Channel 
+http://80.85.55.43:9981/stream/channelid/1179821048?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/mtv-europe.png" tvg-id="e95838dcc4d521b763fd9b32ad87a214" tvg-chno="1035",MTV Hungary 
+http://80.85.55.43:9981/stream/channelid/1547196649?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/h-t-music-channel.png" tvg-id="31ab4be1434550dc9bf526a2cf71e867" tvg-chno="1036",H!T Music Channel 
+http://80.85.55.43:9981/stream/channelid/1632348977?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/minimax-c8.png" tvg-id="0608362dc5ce913e767db811077effea" tvg-chno="1037",Minimax 
+http://80.85.55.43:9981/stream/channelid/758515718?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/nickelodeon.png" tvg-id="5bb3792a17333cd42065e0ddcfb14b25" tvg-chno="1038",Nickelodeon 
+http://80.85.55.43:9981/stream/channelid/712618843?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/digi-world.png" tvg-id="2bbe2987c517eb4428386d05ed141ee4" tvg-chno="1039",DIGI World 
+http://80.85.55.43:9981/stream/channelid/120176171?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/digi-animal-world.png" tvg-id="89ee0253858fe6dcdc7df4d6562ff6e8" tvg-chno="1040",DIGI Animal World 
+http://80.85.55.43:9981/stream/channelid/1392701065?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/digi-life.png" tvg-id="f7667db0262f3c474fef5d533bb88b04" tvg-chno="1041",DIGI Life 
+http://80.85.55.43:9981/stream/channelid/813524727?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/discovery-channel.png" tvg-id="0c21fe1954d9aa4c771b4b89927cf59f" tvg-chno="1042",Discovery Channel 
+http://80.85.55.43:9981/stream/channelid/436085004?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/viasat-nature.png" tvg-id="ad432ab9c06435bc3ff063d07e521419" tvg-chno="1043",Viasat Nature 
+http://80.85.55.43:9981/stream/channelid/959071149?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/spektrum.png" tvg-id="865c7661fa584d7a8a4f9c4b1feaa4f8" tvg-chno="1044",Spektrum 
+http://80.85.55.43:9981/stream/channelid/1635146886?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/nat-geo-hd.png" tvg-id="b22be77079bec1fa2714c2db01bba78c" tvg-chno="1045",Nat Geo 
+http://80.85.55.43:9981/stream/channelid/1894198194?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/nat-geo-wild-hd.png" tvg-id="d4732bfb1fc4d2c2b92baa7420adda86" tvg-chno="1046",Nat Geo WILD 
+http://80.85.55.43:9981/stream/channelid/2066445268?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/history.png" tvg-id="8946cfe2ae8e28321faaf02dbd24fb04" tvg-chno="1047",HISTORY 
+http://80.85.55.43:9981/stream/channelid/1657751177?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/viasat-history.png" tvg-id="7c32c17856cf258bcb126d6bce89fca6" tvg-chno="1048",Viasat History 
+http://80.85.55.43:9981/stream/channelid/2025927292?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/tlc.png" tvg-id="5f158e2f58dcae7f1108e77efbbe1f37" tvg-chno="1049",TLC 
+http://80.85.55.43:9981/stream/channelid/797840735?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/tv-paprika.png" tvg-id="c0aee9776c6cdade4e1992bdc79e38bc" tvg-chno="1050",TV Paprika 
+http://80.85.55.43:9981/stream/channelid/2011803328?profile=pass
+#EXTINF:-1 logo="https://online.digi.hu/cache/api/programs/the-fishing-amp-hunting-hd.jpg" tvg-id="6ce74889313874a78b51db9119f2da94" tvg-chno="1051",The Fishing & Hunting 
+http://80.85.55.43:9981/stream/channelid/155772780?profile=pass

@@ -1,0 +1,407 @@
+#EXTM3U
+#EXTINF:-1 group-title="(2) ULUSAL-2",ARAS TV
+http://1.rtmp.org/tv217/yayin.stream/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",DOST TV
+http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
+#EXTINF:-1 group-title="(3) HABER",TV100 [HD]
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+#EXTINF:-1 group-title="(2) ULUSAL-2",EDESSA TV
+http://185.87.252.44:1935/edessatv/edessatv/playlist.m3u8
+#EXTINF:-1 group-title="(5) BELGESEL",AV TV [SD]
+http://195.142.1.213:1935/avtv/avtv/chunklist.m3u8
+#EXTINF:-1 group-title="(3) HABER",KANAL B [SD]
+http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",DREAM TÜRK [HD]
+https://2122248083.duhnet.tv//S2/HLS_LIVE/dreamturknp/track_4_1000/playlist.m3u8
+#EXTINF:-1 group-title="(1) V-SPOR",1NTVSPOR 1 [HD]
+http://46.105.178.212:8484/ntvspor.ts
+#EXTINF:-1 group-title="(1) V-SPOR",2BEIN SPORTS 1 [SD]
+http://46.105.178.212:8484/hls/ntvspor/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",AHİ TV
+https://59cba4d34b678.streamlock.net/canlitv/ahitv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",AMASYA ART TV
+https://59cba4d34b678.streamlock.net/canlitv/arttv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ARAS TV
+https://59cba4d34b678.streamlock.net/canlitv/arastv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",DÜZCE TV
+https://59cba4d34b678.streamlock.net/canlitv/duzcetv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 38
+https://59cba4d34b678.streamlock.net/live/kanal38/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 43
+https://59cba4d34b678.streamlock.net/canlitv/kanal43/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 5
+https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KIBRIS ADA TV
+https://59cba4d34b678.streamlock.net/canlitv/kibrisadatv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KON TV
+https://59cba4d34b678.streamlock.net/live/kontv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KÖY TV
+https://59cba4d34b678.streamlock.net/canlitv/koytv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",MSBC KANAL 2000
+https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",SİM TV
+https://59cba4d34b678.streamlock.net/canlitv/simtv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV 35
+https://59cba4d34b678.streamlock.net/canlitv/tv35/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV KAYSERİ
+https://59cba4d34b678.streamlock.net/canlitv/tvkayseri/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",VUSLAT TV
+https://59cba4d34b678.streamlock.net/live/vuslattv/playlist.m3u8
+#EXTINF:-1 group-title="(5) BELGESEL",YABAN TV [HD]
+https://59cba4d34b678.streamlock.net/live1/yabantv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",AFYON TÜRK TV
+https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ANTALYA TÜRK TV
+https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 19
+https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",SİTELER TV
+https://5be5d840359c6.streamlock.net/sitelertv/sitelertv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TR6 TV
+https://5be5d840359c6.streamlock.net/tr6tv/tr6tv/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TRAKYA TÜRK TV
+https://5be5d840359c6.streamlock.net/trakyaturktv/trakyaturktv/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV8 INT
+http://62.112.9.63:88/TV8_TR/index.m3u8?token=test
+#EXTINF:-1 group-title="(8) MÜZİK",KRAL POP [HD]
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",MERKEZ TV
+http://broadcasttr.com:1935/merkeztv/smil:merkeztv.smil/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ALANYA TV
+https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ALTAŞ TV
+https://broadcasttr.com:446/altastv/bant1/index.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",DRT DENİZLİ
+https://broadcasttr.com:446/drt/bant1/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ETV MANİSA TV
+https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",GÜNEYDOĞU TV
+https://broadcasttr.com:446/gtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 58
+https://broadcasttr.com:446/kanal58/bant1/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",LINE TV
+https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ÖNCÜ TV
+https://broadcasttr.com:446/oncurtv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV52
+https://broadcasttr.com:446/tv52/bant1/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TVDEN
+https://canli.tvden.com.tr/hls/live.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",AKTİF TV
+http://cdn.yayin.com.tr/aktiftv/aktiftv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KARDELEN TV
+http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
+#EXTINF:-1 group-title="(3) HABER",TGRT HABER [HD]
+http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt1/index.m3u8
+#EXTINF:-1 group-title="(5) BELGESEL",TGRT BELGESEL [SD]
+http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt1/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",BURSA TV
+https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",CINE5 TV
+https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",HABER 61 TV
+https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 56
+https://cdn-kanal56tv.yayin.com.tr/Kanal56TV/Kanal56TV/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",SAMSUN CANLI HABER TV
+http://cdn-samsuncanlihabertv.yayin.com.tr/samsuncanlihabertv/samsuncanlihabertv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",SUN RTV
+http://cdn-suntv.yayin.com.tr/suntv/suntv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV EM
+http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",CRI TÜRK
+http://cri.aa.net.tr:1935/belgesel/belgesel/playlist.m3u8
+#EXTINF:-1 group-title="(6) V-SİNEMA",BLUTV AKSİYON [HD]
+https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
+#EXTINF:-1 group-title="(6) V-SİNEMA",BLUTV KOMEDİ [HD]
+https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",TRT DİYANET [HD]
+https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",SHOW TÜRK [HD]
+http://iptvmasterlink.dyndns.org:5566/Entry/showturk_yeni.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",SHOWMAX [SD]
+http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",ATV AVRUPA [HD]
+http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",EURO D [HD]
+http://iptvmasterlink.dyndns.org:5566/Entry/eurod_yeni.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",VATAN TV
+http://iptvmasterlink.dyndns.org:5566/Entry/vatantv_yeni.m3u8
+#EXTINF:-1 group-title="(3) HABER",ULUSAL KANAL [SD]
+http://iptvmasterlink.dyndns.org:5566/Entry/ulusalkanal_yeni.m3u8
+#EXTINF:-1 group-title="(3) HABER",TELE 1 [SD]
+http://iptvmasterlink.dyndns.org:5566/Entry/tele1_yeni.m3u8
+#EXTINF:-1 group-title="(7) ÇOCUK",DISNEY CHANNEL [HD]
+http://iptvmasterlink.dyndns.org:5566/Entry/disneychannel_yeni.m3u8
+#EXTINF:-1 group-title="(3) HABER",HALK TV [HD]
+http://iptvmasterlink.dyndns.org:8080/Entry/halktv_yeni/index.m3u8
+#EXTINF:-1 group-title="(5) BELGESEL",DMAX [HD]
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",LALEGÜL TV
+http://lalegultv.netmedya.net/hls/lalegultv.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",LALEGÜL TV
+http://lalegultv.netmedya.net/lalegul-tv/lalegultv.stream/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",STAR TV [HD]
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 34
+http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TR6 TV
+http://live.arkumedia.com:1935/tr6tv/tr6tv/chunklist.m3u8
+#EXTINF:-1 group-title="(3) HABER",FİNANS TÜRK [SD]
+http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",KANAL 7 [HD]
+https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
+#EXTINF:-1 group-title="(4) SPOR",SPORTS TV [HD]
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="(3) HABER",KRT TV [HD]
+http://live1.krttv.com.tr/show/krttv_mobil/index.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",POWERTÜRK [HD]
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",POWER TV [FHD]
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b2650000_sltur.m3u8
+#EXTINF:-1 group-title="(3) HABER",TBMM TV [HD]
+http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",METRO TV
+http://metrotvadana.radyotvonline.net/metrotv/metrotvhd/chunklist.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",KRAL TV [HD]
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",MİLYON TV [HD]
+https://milyontv-live.ercdn.net/milyontv/milyontv_720p.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",360 [SD]
+http://mn-nl.mncdn.com/360tv_live/smil:360tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",TV8.5 [HD]
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",STAR TV HD
+https://mn-nl.mncdn.com/blutv_star/smil:star_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",KANAL D HD
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",SHOW TV HD
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT 1 HD
+https://mn-nl.mncdn.com/blutv_trt1/smil:trt1_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",FOX TV HD
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TV8 HD
+https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",A2 HD
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TV8.5 HD
+https://mn-nl.mncdn.com/blutv_tv8_5/smil:tv8_5_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TEVE2 HD
+https://mn-nl.mncdn.com/blutv_teve2/smil:teve2_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",KANAL 7 HD
+https://mn-nl.mncdn.com/blutv_kanal7/smil:kanal7_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",BEYAZ TV HD
+https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",SHOW TÜRK HD
+https://mn-nl.mncdn.com/blutv_showturk/showturk_sd.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",EURO D HD
+https://mn-nl.mncdn.com/blutv_eurod/smil:eurod_sd.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TV8 INT HD
+https://mn-nl.mncdn.com/blutv_tv8_int/smil:tv8int_sd.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",NTV HD
+https://mn-nl.mncdn.com/blutv_ntv/smil:ntv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",CNN TÜRK HD
+https://mn-nl.mncdn.com/blutv_cnnturk/smil:cnnturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",HABERTÜRK HD
+https://mn-nl.mncdn.com/blutv_haberturk/smil:haberturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",HABER GLOBAL HD
+https://mn-nl.mncdn.com/blutv_haberglobal/smil:haberglobal_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TV24 HD
+https://mn-nl.mncdn.com/blutv_kanal24/smil:kanal24_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT HABER HD
+https://mn-nl.mncdn.com/blutv_trthaber/smil:trthaber_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TGRT HABER HD
+https://mn-nl.mncdn.com/blutv_tgrthaber/smil:tgrthaber_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT EBA TV İLKOKUL
+https://mn-nl.mncdn.com/blutv_ebai/ebai_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT EBA TV ORTAOKUL
+https://mn-nl.mncdn.com/blutv_ebao/ebao_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT EBA TV LİSE
+https://mn-nl.mncdn.com/blutv_ebal/ebal_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",ÜLKE TV HD
+https://mn-nl.mncdn.com/blutv_ulketv/smil:ulketv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",HALK TV HD
+https://mn-nl.mncdn.com/blutv_halktv/smil:halktv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",BLOOMBERG TV HD
+https://mn-nl.mncdn.com/blutv_bloomberght/smil:bloomberght_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",A PARA HD
+https://mn-nl.mncdn.com/blutv_apara/smil:apara_sd.smil/chunklist_b1788000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",A SPOR HD
+https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",SPORTS TV HD
+https://mn-nl.mncdn.com/blutv_sportstv/smil:sportstv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TAY TV HD
+https://mn-nl.mncdn.com/blutv_taytv/smil:taytv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TJK TV HD
+https://mn-nl.mncdn.com/blutv_tjktv/smil:tjktv_sd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT BELGESEL HD
+https://mn-nl.mncdn.com/blutv_trtbelgesel/smil:trtbelgesel_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT WORLD HD
+https://mn-nl.mncdn.com/blutv_trtworld/smil:trtworld_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",WOMAN TV HD
+https://mn-nl.mncdn.com/blutv_womankadin/smil:womankadin_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",UÇANKUŞ HD
+https://mn-nl.mncdn.com/blutv_ucankus/ucankus_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",DREAM TÜRK HD
+https://mn-nl.mncdn.com/blutv_dreamturk/smil:dreamturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",POWER TÜRK HD
+https://mn-nl.mncdn.com/blutv_powerturk/smil:powerturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",POWER TV HD
+https://mn-nl.mncdn.com/blutv_power/smil:power_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT MÜZİK HD
+https://mn-nl.mncdn.com/blutv_trtmuzik/smil:trtmuzik_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT ÇOCUK HD
+https://mn-nl.mncdn.com/blutv_trtcocuk/smil:trtcocuk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT TÜRK HD
+https://mn-nl.mncdn.com/blutv_trtturk/trtturk_sd.smil/chunklist_b2096000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",KON TV HD
+https://mn-nl.mncdn.com/blutv_kontv/smil:kontv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",KANAL B HD
+https://mn-nl.mncdn.com/blutv_kanalb/smil:kanalb_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",EKOTÜRK TV HD
+https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",VUSLAT TV HD
+https://mn-nl.mncdn.com/blutv_vuslattv/smil:vuslattv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",ERTV HD
+https://mn-nl.mncdn.com/blutv_ertv/smil:ertv_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",DİYANET TV HD
+https://mn-nl.mncdn.com/blutv_diyanet/smil:diyanet_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT ARABİ HD
+https://mn-nl.mncdn.com/blutv_trtarapca/smil:trtarapca_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-BLUTV",TRT KURDİ HD
+https://mn-nl.mncdn.com/blutv_trtkurdi/smil:trtkurdi_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(3) HABER",TVNET [HD]
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="(3) HABER",EKOTÜRK TV [HD]
+https://mn-nl.mncdn.com/blutv_ekoturk/smil:ekoturk_sd.smil/chunklist_b2064000.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",SEMERKAND TV
+http://mtisvwurbfcyslive.mediatriple.net/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/chunklist.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",NR1 TÜRK [HD]
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunks.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",NR1 AŞK [HD]
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18f9c54e6.smil/chunks.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",NR1 DAMAR [HD]
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e19877b340.smil/chunks.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",NR1 [HD]
+https://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",VIYANA TV
+http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+#EXTINF:-1 group-title="(3) HABER",NTV [HD]
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="(4) SPOR",GS TV [HD]
+https://owifavo5.rocketcdn.com/gstv/gstv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 group-title="(5) BELGESEL",TLC [HD]
+http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",FORTUNA TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 group-title="(8) MÜZİK",SLOW KARADENİZ TV [HD]
+http://slowkaradeniztv.yayin.com.tr/slowkaradeniztv/smil:slowkaradeniztv.smil/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",EURO D [SD]
+http://soledge7.dogannet.tv/S2/HLS_LIVE/eurod/index.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ROYAL TV
+http://source2.primetime.ch:2981/play/royaltv/index.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ÇİFTCİ TV
+http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KÖROĞLU TV
+http://stream.taksimbilisim.com:1935/koroglutv/bant1/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV52
+http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ÇAY TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/index.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL ALANYA
+http://stream2.taksimbilisim.com:1935/kanala/bant1/playlist.m3u8
+#EXTINF:-1 group-title="(4) SPOR",TIVIBU SPOR 1 [HD]
+https://tna6.tulix.tv/live/giniko_ginikoturkish_tivibuspor_1200kb_tna6.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV4
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="(6) V-SİNEMA",VİZYON TV [HD]
+https://vizyontv.yayin.com.tr/vizyontv/vizyontv_1080p/index.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",BİTLİS TV
+https://waw1.artiyerelmedya.net/bitlistv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ÇİFTCİ TV
+https://waw1.artiyerelmedya.net/ciftcitv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 12
+https://waw1.artiyerelmedya.net/kanal12/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",38 KENT TV
+https://waw2.artiyerelmedya.net/38kenttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",AKSU TV
+https://waw2.artiyerelmedya.net/aksutv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",AS TV
+https://waw2.artiyerelmedya.net/astv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",AV TV
+https://waw2.artiyerelmedya.net/avtv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",BLT TÜRK
+https://waw2.artiyerelmedya.net/bltturk/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",BRTV
+https://waw2.artiyerelmedya.net/brtv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",DEHA TV
+https://waw2.artiyerelmedya.net/dehatv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",DENİZ POSTASI TV
+https://waw2.artiyerelmedya.net/denizpostasitv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",DİM TV
+https://waw2.artiyerelmedya.net/dimtv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",EGE TV
+https://waw2.artiyerelmedya.net/egetv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ER TV
+https://waw2.artiyerelmedya.net/ertv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",FRT TV
+https://waw2.artiyerelmedya.net/frttv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",GAZİANTEP OLAY TV
+https://waw2.artiyerelmedya.net/olaytv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",GRT
+https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",HUNAT TV
+https://waw2.artiyerelmedya.net/hunattv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",İLKE TV
+https://waw2.artiyerelmedya.net/ilketv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 15
+https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 23
+https://waw2.artiyerelmedya.net/kanal23/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 26
+https://waw2.artiyerelmedya.net/kanal26/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 3
+https://waw2.artiyerelmedya.net/kanal3/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL 68
+https://waw2.artiyerelmedya.net/kanal68/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL FIRAT
+https://waw2.artiyerelmedya.net/kanalfirat/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KANAL Z
+https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KAY TV
+https://waw2.artiyerelmedya.net/kaytv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",LIFE TV
+https://waw2.artiyerelmedya.net/lifetv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",MAVİ KARADENİZ
+https://waw2.artiyerelmedya.net/mavikaradeniz/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",MERCAN TV
+https://waw2.artiyerelmedya.net/mercantv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",OLAY TÜRK TV
+https://waw2.artiyerelmedya.net/olayturk/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TE 60 TV
+https://waw2.artiyerelmedya.net/te60tv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TEMPO TV
+https://waw2.artiyerelmedya.net/tempotv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TON TV
+https://waw2.artiyerelmedya.net/tontv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TV41
+https://waw2.artiyerelmedya.net/tv41/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",TVA
+https://waw2.artiyerelmedya.net/tva/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",VİZYON 58
+https://waw2.artiyerelmedya.net/vizyon58/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",VUSLAT TV
+https://waw2.artiyerelmedya.net/vuslattv/bant1/chunks.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ERT ŞAH TV
+http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ALANYA POSTA TV
+http://win4.yayin.com.tr/postatv/postatv/iptvdelisi.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL",EURO STAR [HD]
+http://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",KUDÜS TV
+https://yayin.kudustv.com/981680400/kudustv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",MAR TV
+https://yayin.marmaratv.com.tr/P324353563/marmaratv/playlist.m3u8
+#EXTINF:-1 group-title="(2) ULUSAL-2",ON4 TV
+http://yayin.netradyom.com:1935/live/on4/playlist.m3u8

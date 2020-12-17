@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,arti_tvhd
+http://164.132.236.161:8000/play/arti_tvhd/index.m3u8
+#EXTINF:-1,webtv_aritv
+http://164.132.236.161:8000/play/webtv_aritv/index.m3u8

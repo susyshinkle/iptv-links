@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 ,Abc News
+http://79.106.48.2:4040/live/abcnewsmob/playlist.m3u8
+#EXTINF:-1 ,Euronews Albania
+http://79.106.48.2:4040/live/euronewsmobpp3/playlist.m3u8
+#EXTINF:-1 ,In Tv
+http://79.106.48.2:4040/live/intvott/playlist.m3u8
+#EXTINF:-1 ,Klan Macedonia
+http://79.106.48.2:4040/live/klanmacedoniamob/playlist.m3u8
+#EXTINF:-1 ,Klan Plus
+http://79.106.48.2:4040/live/klanplusmobpp2/playlist.m3u8
+#EXTINF:-1 ,Klan Tv
+http://79.106.48.2:4040/live/klanhdmobpp3/playlist.m3u8
+#EXTINF:-1 ,News 24
+http://79.106.48.2:4040/live/news24mob/playlist.m3u8
+#EXTINF:-1 ,Scan Tv
+http://79.106.48.2:4040/live/scanmobpp1/playlist.m3u8
+#EXTINF:-1 ,Syri Tv
+http://79.106.48.2:4040/live/syritvmob/playlist.m3u8
